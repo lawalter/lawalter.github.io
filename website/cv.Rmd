@@ -1,6 +1,0 @@
----
-title: "CV"
-output: html_document
----
-  
-CV
