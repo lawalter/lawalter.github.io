@@ -10,7 +10,7 @@
 border-collapse:collapse;
         border-spacing:0}
 
-th {
+th.icon {
   font-family:"Rubik", sans-serif;
   text-align:left;
   word-break:normal;
@@ -18,15 +18,28 @@ th {
   border-style:solid;
   border-color:#000000;
   padding:10px 5px}
+
+th.name {
+  font-family:Rubik, sans-serif;
+  font-size:56px;
+  font-weight:600;
+  text-align:left;
+  vertical-align:bottom"}
       
-td {
+td.menu {
+  vertical-align:top;
+  font-family:"Montserrat",sans-serif;
+  font-size:16px"}
+  
+td.body {
   font-family:"Rubik", sans-serif;
   text-align:left;
   word-break:normal;
   border-width:1px;
   border-style:solid;
   border-color:#000000;
-  padding:10px 5px}
+  padding:10px 5px;
+  vertical-align:top}
       
 a:link, a:visited {
   color: black;
@@ -46,16 +59,16 @@ a:hover, a:active {
 <table width="60%">
   <thead>
   <tr>
-    <th rowspan="2" width = "150"><img src = "images/abby.png" width="150" height="150"></th>
-    <th style="font-family:Rubik;font-size:56px;font-weight:600;text-align:left;vertical-align:bottom"><b>Abby Walter </b></th>
+    <th class="icon" rowspan="2" width="150"><img src="images/abby.png" width="150" height="150"></th>
+    <th class="name"><b>Abby Walter </b></th>
   </tr>
   <tr>
-    <td style="vertical-align:top;font-family:"Montserrat",sans-serif;font-size:16px;">
-      <a href = "index.html">about</a> <font color = "#93df05">/</font> 
-      <a href = "pubs.html">publications</a> <font color = "#93df05">/</font> 
-      <a href = "fieldwork.html">field work</a> <font color = "#93df05">/</font> 
-      <a href = "cv.html">cv</a> <font color = "#93df05">/</font> 
-      <a href = "portfolio.html">portfolio</a> <font color = "#93df05">/</font> 
+    <td class="menu">
+      <a href = "index.html">home</a> / 
+      <a href = "pubs.html">publications</a> / 
+      <a href = "fieldwork.html">field work</a> / 
+      <a href = "cv.html">cv</a> / 
+      <a href = "portfolio.html">portfolio</a> / 
       <a href = "http://github.com/lawalter"><i class="fab fa-github fa-lg"></i></a>
       <a href = "http://twitter.com/lawaltr"><i class="fab fa-twitter fa-lg"></i></a>
       <a href = "https://orcid.org/0000-0003-4017-5596"><i class="ai ai-orcid ai-lg"></i></a>
@@ -67,7 +80,7 @@ a:hover, a:active {
 </thead>
 <tbody>
   <tr>
-    <td style="vertical-align:top" colspan="2">
+    <td class="body" colspan="2">
       
       <b>Portfolio</b>
       
