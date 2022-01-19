@@ -30,6 +30,18 @@ table.oldschool td.body {
   border-color:#000000;
   padding:10px 5px;
   vertical-align:top;}
+
+table.oldschool td.foot {
+  font-family:"Montserrat",sans-serif;
+  font-size:10px;
+  text-align:left;
+  font-color:#DDDDDD;
+  word-break:normal;
+  border-width:1px;
+  border-style:solid;
+  border-color:#000000;
+  padding:10px 5px;
+  vertical-align:top;}
       
 a:link, a:visited {
   color: black;
