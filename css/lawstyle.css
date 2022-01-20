@@ -2,13 +2,13 @@ table.oldschool {
   border-collapse:collapse;
   border-spacing:0;}
 
-table.oldschool th.icon {
+table.oldschool td.icon {
   border-width:0px;
   border-style:solid;
   border-color:#000000;
   padding:10px 5px;}
 
-table.oldschool th.name {
+table.oldschool td.name {
   vertical-align:bottom;
   font-family:"Rubik",sans-serif;
   font-size:56px;
