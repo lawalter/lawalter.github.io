@@ -25,7 +25,7 @@ table.oldschool td.body {
   font-size:14px;
   text-align:left;
   word-break:normal;
-  border-width:1px;
+  border-width:0px;
   border-style:solid;
   border-color:#000000;
   padding:10px 5px;
@@ -37,9 +37,7 @@ table.oldschool td.foot {
   text-align:left;
   font-color:#DDDDDD;
   word-break:normal;
-  border-width:1px;
-  border-style:solid;
-  border-color:#000000;
+  border-width:0px;
   padding:10px 5px;
   vertical-align:top;}
       
