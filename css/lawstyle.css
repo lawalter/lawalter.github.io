@@ -48,3 +48,7 @@ a:link, a:visited, a:active {
 a:hover {
   color: #93df05;
   text-decoration: none;}
+
+rhwo-gif {
+  width: 100%;  
+  height: auto;}
