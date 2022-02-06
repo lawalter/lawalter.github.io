@@ -1,45 +1,55 @@
 table.oldschool {
-  border-collapse:collapse;
-  border-spacing:0;}
+  border-collapse: collapse;
+  border-spacing: 0;}
 
 table.oldschool td.icon {
-  border-width:0px;
-  border-style:solid;
-  border-color:#000000;
-  padding:10px 5px;}
+  border-width: 0px;
+  border-style: solid;
+  border-color: #000000;
+  padding: 10px 5px;}
 
 table.oldschool td.name {
-  vertical-align:bottom;
-  font-family:"Rubik",sans-serif;
-  font-size:56px;
-  font-weight:600;
-  text-align:left;}
+  vertical-align: bottom;
+  font-family: "Rubik", sans-serif;
+  font-size: 56px;
+  font-weight: 600;
+  text-align: left;}
       
 table.oldschool td.menu {
-  vertical-align:top;
-  font-family:"Montserrat",sans-serif;
-  font-size:16px;}
+  vertical-align: top;
+  font-family: "Montserrat", sans-serif;
+  font-size: 16px;}
   
 table.oldschool td.body {
-  font-family:"Montserrat",sans-serif;
-  font-size:14px;
-  text-align:left;
-  word-break:normal;
-  border-width:0px;
-  border-style:solid;
-  border-color:#000000;
-  padding:10px 5px;
-  vertical-align:top;}
+  font-family: "Montserrat", sans-serif;
+  font-size: 14px;
+  text-align: left;
+  word-break: normal;
+  border-width: 0px;
+  border-style: solid;
+  border-color: #000000;
+  padding: 10px 5px;
+  vertical-align: top;}
+
+h1 {
+  font-family: "Montserrat", sans-serif;
+  font-size: 16px;}
+
+h5 {
+  font-family: "Montserrat", sans-serif;
+  font-size: 14px;
+  background-color: black;
+  color: white;}
 
 table.oldschool td.foot {
-  font-family:"Montserrat",sans-serif;
-  font-size:10px;
-  text-align:left;
-  font-color:#DDDDDD;
-  word-break:normal;
-  border-width:0px;
-  padding:10px 5px;
-  vertical-align:top;}
+  font-family: "Montserrat", sans-serif;
+  font-size: 10px;
+  text-align: left;
+  font-color: #DDDDDD;
+  word-break: normal;
+  border-width: 0px;
+  padding: 10px 5px;
+  vertical-align: top;}
       
 a:link, a:visited, a:active {
   color: #419545;
