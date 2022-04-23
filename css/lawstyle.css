@@ -10,7 +10,7 @@ table.oldschool td.icon {
 
 table.oldschool td.name {
   vertical-align: bottom;
-  font-family: "Rubik", sans-serif;
+  font-family: "Lora", sans-serif;
   font-size: 56px;
   font-weight: 600;
   text-align: left;}
@@ -22,7 +22,7 @@ table.oldschool td.menu {
   
 table.oldschool td.body {
   font-family: "Roboto", sans-serif;
-  font-size: 16px;
+  font-size: 15px;
   text-align: left;
   word-break: normal;
   border-width: 0px;
@@ -32,15 +32,15 @@ table.oldschool td.body {
   vertical-align: top;}
 
 h1 {
-  font-family: "Montserrat", sans-serif;
+  font-family: "Lora", sans-serif;
   font-size: 20px;}
 
 h2 {
-  font-family: "Montserrat", sans-serif;
+  font-family: "Lora", sans-serif;
   font-size: 16px;}
 
 table.oldschool td.foot {
-  font-family: "Montserrat", sans-serif;
+  font-family: "Roboto", sans-serif;
   font-size: 10px;
   text-align: left;
   font-color: #DDDDDD;
