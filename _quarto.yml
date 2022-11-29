@@ -1,0 +1,42 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Abby Walter"
+  favicon: images/favicon.ico
+  sidebar:
+    title: Abby Walter
+    style: floating
+    logo: images/abby_walter.png
+    search: false
+    tools: 
+      - icon: github
+        href: http://github.com/lawalter
+      - icon: mastodon
+        href: https://fosstodon.org/@abby
+      - icon: twitter
+        href: http://twitter.com/lawaltr
+      - icon: binoculars-fill
+        href: https://ebird.org/profile/MjgzMDYw/US
+      - icon: envelope-fill
+        href: mailto:lawalter@vcu.edu        
+    contents:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+      - publications.qmd
+      - projects.qmd
+      - gifs.qmd
+
+format:
+  html:
+    theme: 
+    - cosmo
+    - css/custom.scss
+    linkcolor: "#60be65"
+    css: css/styles.css
+    toc: true
+
+
+

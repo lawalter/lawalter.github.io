@@ -1,0 +1,6 @@
+---
+title: "Home"
+---
+
+Howdy, my name is Abby! I'm a Wildlife Biologist and Data Analyst located near Washington, DC. I work for the US Fish and Wildlife Service to process and manage migratory bird data with R and Python.
+

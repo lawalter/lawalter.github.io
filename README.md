@@ -1,6 +1,6 @@
 # Abby Walter's personal website
 
-Link: http://lawalter.github.io
+Visit here: http://lawalter.github.io
 
 
 ## License
@@ -14,5 +14,4 @@ Link: http://lawalter.github.io
 
 ## Attribution
 
-Academicons: https://jpswalsh.github.io/academicons/
-<br>License boilerplate: https://github.com/santisoler/cc-licenses
+icense boilerplate: https://github.com/santisoler/cc-licenses

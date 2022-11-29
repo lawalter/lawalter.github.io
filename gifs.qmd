@@ -1,0 +1,41 @@
+---
+title: "Gif Gallery"
+---
+
+To collect data for my research on Red-headed Woodpecker (<i>Melanerpes erythrocephalus</i>) parental care behavior, I recorded a few hundred hours of video. The videos I recorded are of breeding pairs at nest cavities from 2017-2018 at Fort A.P. Hill, Virginia, USA. I converted some of the most interesting clips into gifs to share with the public, and invite you to use these under the <a href = "https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA License</a>.
+
+## Cleaning
+
+Most birds clean nestling waste from the nest or nest cavity when chicks are young.
+
+![](gifs/clean_clip.gif){fig-alt="gif of Red-headed Woodpecker cleaning a nest cavity"}
+
+## Drumming
+
+Often done for territorial purposes.
+
+![](gifs/drumming.gif){fig-alt="gif of a drumming Red-headed Woodpecker"}
+
+## Preening
+
+Important for cleanliness and to ensure feathers are in good shape for flying.
+
+![](gifs/preening_puffy.gif){fig-alt="gif of a preening Red-headed Woodpecker"}
+
+## Provisioning
+
+Parents must provision, or bring food to, their offspring at the nest cavity.
+
+![](gifs/prov_clip_1.gif){fig-alt="gif of Red-headed Woodpecker bringing food to the nest"}
+
+## Resting
+
+A common behavior also referred to as "nest guarding" when done near the nest.
+
+![](gifs/stat.gif){fig-alt="gif of a resting Red-headed Woodpecker"}
+
+## Stretching
+
+Birds stretch for the same reasons people do!
+
+![](gifs/stretch.gif){fig-alt="gif of a stretching Red-headed Woodpecker"}

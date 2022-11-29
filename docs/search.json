@@ -1,0 +1,86 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Born and raised in Delaware, I attended the University of Delaware to study Wildlife Conservation and Ecology in my hometown. During and after earning my undergraduate degree, I took seasonal field jobs from Rhode Island to Florida to work with species such as Wood Thrush, Piping Plovers, Red-cockaded Woodpeckers, white-footed deer mice, and frosted flatwoods salamanders. I eventually settled in Virginia to join the Bulluck Avian Ecology Lab at Virginia Commonwealth University, where I studied Red-headed Woodpecker sex-specific parental care behavior and home range size for my Master’s research. I later honed my data wrangling techniques at the Smithsonian Migratory Bird Center and realized managing wildlife data was the career for me.\nI am a certified Associate Wildlife Biologist and enjoy birding in my free time."
+  },
+  {
+    "objectID": "gifs.html",
+    "href": "gifs.html",
+    "title": "Gif Gallery",
+    "section": "",
+    "text": "To collect data for my research on Red-headed Woodpecker (Melanerpes erythrocephalus) parental care behavior, I recorded a few hundred hours of video. The videos I recorded are of breeding pairs at nest cavities from 2017-2018 at Fort A.P. Hill, Virginia, USA. I converted some of the most interesting clips into gifs to share with the public, and invite you to use these under the CC BY-SA License."
+  },
+  {
+    "objectID": "gifs.html#cleaning",
+    "href": "gifs.html#cleaning",
+    "title": "Gif Gallery",
+    "section": "Cleaning",
+    "text": "Cleaning\nMost birds clean nestling waste from the nest or nest cavity when chicks are young."
+  },
+  {
+    "objectID": "gifs.html#drumming",
+    "href": "gifs.html#drumming",
+    "title": "Gif Gallery",
+    "section": "Drumming",
+    "text": "Drumming\nOften done for territorial purposes."
+  },
+  {
+    "objectID": "gifs.html#preening",
+    "href": "gifs.html#preening",
+    "title": "Gif Gallery",
+    "section": "Preening",
+    "text": "Preening\nImportant for cleanliness and to ensure feathers are in good shape for flying."
+  },
+  {
+    "objectID": "gifs.html#provisioning",
+    "href": "gifs.html#provisioning",
+    "title": "Gif Gallery",
+    "section": "Provisioning",
+    "text": "Provisioning\nParents must provision, or bring food to, their offspring at the nest cavity."
+  },
+  {
+    "objectID": "gifs.html#resting",
+    "href": "gifs.html#resting",
+    "title": "Gif Gallery",
+    "section": "Resting",
+    "text": "Resting\nA common behavior also referred to as “nest guarding” when done near the nest."
+  },
+  {
+    "objectID": "gifs.html#stretching",
+    "href": "gifs.html#stretching",
+    "title": "Gif Gallery",
+    "section": "Stretching",
+    "text": "Stretching\nBirds stretch for the same reasons people do!"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
+    "section": "",
+    "text": "Howdy, my name is Abby! I’m a Wildlife Biologist and Data Analyst located near Washington, DC. I work for the US Fish and Wildlife Service to process and manage migratory bird data with R and Python."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Repository: https://github.com/lawalter/gardenhelprIn development. 2022-present\n\n\n\nI started this R Shiny app to assist in backyard garden planning. Initially, I had an idea to calculate the mean pH requirements of all of the plants I was hoping to grow in my yard. As I did more research, I learned about the benefits of companion planting (and drawbacks to planting “enemies” together)! When completed, the gardenhelpr app will be able to take a list of plants a user is planning to grow and output both (1) ideal growing conditions (pH, soil, light, etc) as well as (2) any plant relationships and subsequent spacing recommendations.\n\n\n\nRepository: https://github.com/lawalter/colorband-appComplete. 2020\n\n\n\nCreated as a test case for my r-shiny-electron-app repository, this is a simple R Shiny app packaged with Electron that creates random color combinations for bird banding. Colors can be selected based on what’s available in a banding kit, and selections are saved for future use via shinyStore."
+  },
+  {
+    "objectID": "projects.html#guides",
+    "href": "projects.html#guides",
+    "title": "Projects",
+    "section": "Guides",
+    "text": "Guides\n\nShiny Electron App Creation Guide\nRepository: https://github.com/lawalter/r-shiny-electron-appComplete. 2020\nThis is a guide to creating a desktop R Shiny app on both macOS and Windows with Electron."
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Thumbnail\nCitation\n\n\n\n\n\nWalter, L. A., C. B. Viverette, and L. P. Bulluck. Accepted. Parental care in a sexually monomorphic Picid, the Red-headed Woodpecker. Journal of Field Ornithology.  Access: PDF, Online, Data Repository\n\n\n\nBulluck, L., B. Nickley, A. Walter, and C. Viverette. 2018. Species co-occurrence patterns among cavity nesting birds across seasons and in a landscapes with varying habitat complexity. In ECCB2018: 5th European Congress of Conservation Biology. 12th-15th of June 2018, Jyväskylä, Finland. Open Science Centre, University of Jyväskylä."
+  }
+]

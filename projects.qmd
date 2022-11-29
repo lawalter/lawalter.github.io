@@ -1,0 +1,33 @@
+---
+title: "Projects"
+---
+
+## Apps
+
+### Garden Helpr
+
+**Repository:** [https://github.com/lawalter/gardenhelpr](https://github.com/lawalter/gardenhelpr)<br>**In development.** 2022-present
+
+::: {.column-margin}
+![](images/gh_app.png){fig-alt="Screenshot of Garden Helper application"}
+:::
+
+I started this R Shiny app to assist in backyard garden planning. Initially, I had an idea to calculate the mean pH requirements of all of the plants I was hoping to grow in my yard. As I did more research, I learned about the benefits of companion planting (and drawbacks to planting "enemies" together)! When completed, the gardenhelpr app will be able to take a list of plants a user is planning to grow and output both (1) ideal growing conditions (pH, soil, light, etc) as well as (2) any plant relationships and subsequent spacing recommendations.
+
+### Colorband Combination Generator
+
+**Repository:** [https://github.com/lawalter/colorband-app](https://github.com/lawalter/colorband-app)<br>**Complete.** 2020
+
+::: {.column-margin}
+![](images/app_img_m.png){fig-alt="Screenshot of Colorband Combination app"}
+:::
+
+Created as a test case for my <a href = "https://github.com/lawalter/r-shiny-electron-app">r-shiny-electron-app</a> repository, this is a simple R Shiny app packaged with Electron that creates random color combinations for bird banding. Colors can be selected based on what's available in a banding kit, and selections are saved for future use via <a href = "https://github.com/trestletech/shinyStore">shinyStore</a>.
+
+## Guides 
+
+###   Shiny Electron App Creation Guide 
+
+**Repository:** [https://github.com/lawalter/r-shiny-electron-app](https://github.com/lawalter/r-shiny-electron-app)<br>**Complete.** 2020
+
+This is a guide to creating a desktop R Shiny app on both macOS and Windows with Electron.
