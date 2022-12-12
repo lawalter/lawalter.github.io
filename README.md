@@ -14,4 +14,4 @@ Visit here: http://lawalter.github.io
 
 ## Attribution
 
-icense boilerplate: https://github.com/santisoler/cc-licenses
+License boilerplate: https://github.com/santisoler/cc-licenses
