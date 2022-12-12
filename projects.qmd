@@ -6,7 +6,7 @@ title: "Projects"
 
 ### Red-headed Woodpeckers
 
-As part of my Master's work with the [Bulluck Avian Ecology Lab](https://rampages.us/bullucklab/), I studied [Red-headed Woodpecker](https://www.allaboutbirds.org/guide/Red-headed_Woodpecker/overview) (<i>Melanerpes erythrocephalus</i>) parental care behavior. Below is a summary of my research using a series of infographics. To learn more, check out my [parental care publication](https://journal.afonet.org/vol93/iss2/art3/JFO-2022-89.pdf).
+As part of my Master's work with the [Bulluck Avian Ecology Lab](https://rampages.us/bullucklab/), I studied Red-headed Woodpecker (<i>Melanerpes erythrocephalus</i>) parental care behavior. Below is a summary of my research using a series of infographics. To learn more, check out my [parental care publication](https://journal.afonet.org/vol93/iss2/art3/JFO-2022-89.pdf).
 
 ![](images/rhwo_parental_care.png){fig-alt="Red-headed Woodpecker parental care results summary. Ninety-nine percent of all woodpecker species are sexually dimorphic; less than one percent are truly monomorphic. Red-headed and Lewis's Woodpeckers are the only monomorphic woodpeckers. Since males and females are hard to tell apart in monomorphic species, parental care behaviors are often under-studied. We used DNA to sex color-banded Red-headed Woodpeckers and video-recorded their parental care. Males did nearly all of the nest cleaning. Provisioning, also known as feeding chicks, was equal. Incubation and diurnal brooding was done by females more." fig-align="center"}
 

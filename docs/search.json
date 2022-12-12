@@ -4,14 +4,21 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "Born and raised in Delaware, I attended the University of Delaware to study Wildlife Conservation and Ecology in my hometown. During and after earning my undergraduate degree, I took seasonal field jobs from Rhode Island to Florida to work with species such as Wood Thrush, Piping Plovers, Red-cockaded Woodpeckers, white-footed deer mice, and frosted flatwoods salamanders. I eventually settled in Virginia to join the Bulluck Avian Ecology Lab at Virginia Commonwealth University, where I studied Red-headed Woodpecker sex-specific parental care behavior and home range size for my Master’s research. I later honed my data wrangling techniques at the Smithsonian Migratory Bird Center and realized managing wildlife data was the career for me.\nI am a certified Associate Wildlife Biologist and enjoy birding in my free time."
+    "text": "Born and raised in Delaware, I attended the University of Delaware to study Wildlife Conservation and Ecology in my hometown of Newark. During and after earning my undergraduate degree, I took seasonal field jobs from Rhode Island to Florida to work with species such as Wood Thrush, Piping Plovers, Red-cockaded Woodpeckers, white-footed deer mice, and frosted flatwoods salamanders. I eventually settled in Virginia to join the Bulluck Avian Ecology Lab at Virginia Commonwealth University, where I studied Red-headed Woodpecker sex-specific parental care behavior and home range size for my Master’s research. I later honed my data wrangling techniques at the Smithsonian Migratory Bird Center and realized managing wildlife data was the career for me.\nI am a certified Associate Wildlife Biologist and enjoy birding in my free time."
+  },
+  {
+    "objectID": "DISCLAIMER.html",
+    "href": "DISCLAIMER.html",
+    "title": "Abby Walter",
+    "section": "",
+    "text": "DISCLAIMER\nThis is Abby Walter’s personal website. This wesite is not affiliated with or endorsed by any organization or institution."
   },
   {
     "objectID": "gifs.html",
     "href": "gifs.html",
     "title": "Gif Gallery",
     "section": "",
-    "text": "To collect data for my research on Red-headed Woodpecker (Melanerpes erythrocephalus) parental care behavior, I recorded a few hundred hours of video. The videos I recorded are of breeding pairs at nest cavities from 2017-2018 at Fort A.P. Hill, Virginia, USA. I converted some of the most interesting clips into gifs to share with the public, and invite you to use these under the CC BY-SA License."
+    "text": "In 2017 and 2018, I recorded a few hundred hours of Red-headed Woodpecker (Melanerpes erythrocephalus) videos for my research on parental care behavior as part of my Master’s work with the Bulluck Avian Ecology Lab. Woodpeckers were captured and given special leg bands in unique color combinations so I could tell them apart. Breeding pairs were then recorded at nest cavities from May to August at Fort A.P. Hill, Virginia, USA. I converted some of the most interesting clips into gifs to share with the public. Feel free to use the gifs below under the CC BY-SA License.\nWant to learn more? Check out a summary of the results of my research!"
   },
   {
     "objectID": "gifs.html#cleaning",
@@ -67,7 +74,14 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Repository: https://github.com/lawalter/gardenhelprIn development. 2022-present\n\n\n\nI started this R Shiny app to assist in backyard garden planning. Initially, I had an idea to calculate the mean pH requirements of all of the plants I was hoping to grow in my yard. As I did more research, I learned about the benefits of companion planting (and drawbacks to planting “enemies” together)! When completed, the gardenhelpr app will be able to take a list of plants a user is planning to grow and output both (1) ideal growing conditions (pH, soil, light, etc) as well as (2) any plant relationships and subsequent spacing recommendations.\n\n\n\nRepository: https://github.com/lawalter/colorband-appComplete. 2020\n\n\n\nCreated as a test case for my r-shiny-electron-app repository, this is a simple R Shiny app packaged with Electron that creates random color combinations for bird banding. Colors can be selected based on what’s available in a banding kit, and selections are saved for future use via shinyStore."
+    "text": "As part of my Master’s work with the Bulluck Avian Ecology Lab, I studied Red-headed Woodpecker (Melanerpes erythrocephalus) parental care behavior. Below is a summary of my research using a series of infographics. To learn more, check out my parental care publication."
+  },
+  {
+    "objectID": "projects.html#apps",
+    "href": "projects.html#apps",
+    "title": "Projects",
+    "section": "Apps",
+    "text": "Apps\n\nGarden Helpr\nRepository: https://github.com/lawalter/gardenhelprIn development. 2022-present\n\n\n\nI started this R Shiny app to assist in backyard garden planning. Initially, I had an idea to calculate the mean pH requirements of all of the plants I was hoping to grow in my yard. As I did more research, I learned about the benefits of companion planting (and drawbacks to planting “enemies” together)! When completed, the gardenhelpr app will be able to take a list of plants a user is planning to grow and output both (1) ideal growing conditions (pH, soil, light, etc) as well as (2) any plant relationships and subsequent spacing recommendations.\n\n\nColorband Combination Generator\nRepository: https://github.com/lawalter/colorband-appComplete. 2020\n\n\n\nCreated as a test case for my r-shiny-electron-app repository, this is a simple R Shiny app packaged with Electron that creates random color combinations for bird banding. Colors can be selected based on what’s available in a banding kit, and selections are saved for future use via shinyStore."
   },
   {
     "objectID": "projects.html#guides",

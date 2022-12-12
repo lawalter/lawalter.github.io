@@ -5,6 +5,8 @@ project:
 website:
   title: "Abby Walter"
   favicon: images/favicon.ico
+  page-footer: 
+    center: Abby Walter's personal website. [Disclaimer](https://github.com/lawalter/lawalter.github.io/blob/master/DISCLAIMER.md) [License](https://github.com/lawalter/lawalter.github.io/blob/master/LICENSE)
   sidebar:
     title: Abby Walter
     style: floating
@@ -37,6 +39,7 @@ format:
     linkcolor: "#60be65"
     css: css/styles.css
     toc: true
+
 
 
 
