@@ -2,6 +2,20 @@
 title: "Projects"
 ---
 
+## Research
+
+### Red-headed Woodpeckers
+
+As part of my Master's work with the [Bulluck Avian Ecology Lab](https://rampages.us/bullucklab/), I studied [Red-headed Woodpecker](https://www.allaboutbirds.org/guide/Red-headed_Woodpecker/overview) (<i>Melanerpes erythrocephalus</i>) parental care behavior. Below is a summary of my research using a series of infographics. To learn more, check out my [parental care publication](https://journal.afonet.org/vol93/iss2/art3/JFO-2022-89.pdf).
+
+![](images/rhwo_parental_care.png){fig-alt="Red-headed Woodpecker parental care results summary. Ninety-nine percent of all woodpecker species are sexually dimorphic; less than one percent are truly monomorphic. Red-headed and Lewis's Woodpeckers are the only monomorphic woodpeckers. Since males and females are hard to tell apart in monomorphic species, parental care behaviors are often under-studied. We used DNA to sex color-banded Red-headed Woodpeckers and video-recorded their parental care. Males did nearly all of the nest cleaning. Provisioning, also known as feeding chicks, was equal. Incubation and diurnal brooding was done by females more." fig-align="center"}
+
+![](images/provisioning.png){fig-alt="Male and female provisioning rates are equal. Red-headed Woodpeckers fed their chicks less frequently in late summer, after July 7, regardless of chick age." fig-align="center"}
+
+![](images/cleaning_nest.png){fig-alt="Males were 6 and a half times more likely than females to clean the nest of fecal sacs. Future researchers can sex Red-headed Woodpeckers using cleaning rates as an affordable alternative to DNA sequencing." fig-align="center"}
+
+![](images/nestling_development.png){fig-alt="Red-headed Woodpeckers hatch asynchronously. Pinfeathers emerge at day 7 and eyes open on day 11." fig-align="center"}
+
 ## Apps
 
 ### Garden Helpr
