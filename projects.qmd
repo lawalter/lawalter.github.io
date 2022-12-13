@@ -40,7 +40,7 @@ Created as a test case for my <a href = "https://github.com/lawalter/r-shiny-ele
 
 ## Guides 
 
-###   Shiny Electron App Creation Guide 
+### Shiny Electron App Creation Guide 
 
 **Repository:** [https://github.com/lawalter/r-shiny-electron-app](https://github.com/lawalter/r-shiny-electron-app)<br>**Complete.** 2020
 

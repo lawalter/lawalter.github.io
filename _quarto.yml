@@ -1,16 +1,20 @@
 project:
   type: website
   output-dir: docs
+  render:
+    - "*.qmd"
+    - "!*.md"
 
 website:
   title: "Abby Walter"
   favicon: images/favicon.ico
   page-footer: 
-    center: Abby Walter's personal website. [Disclaimer](https://github.com/lawalter/lawalter.github.io/blob/master/DISCLAIMER.md) [License](https://github.com/lawalter/lawalter.github.io/blob/master/LICENSE)
+    center: Abby Walter's personal website. [Disclaimer](https://github.com/lawalter/lawalter.github.io/blob/master/DISCLAIMER.md). [License](https://github.com/lawalter/lawalter.github.io/blob/master/LICENSE).
   sidebar:
     title: Abby Walter
     style: floating
     logo: images/abby_walter.png
+    logo-alt: A photo of Abby
     search: false
     tools: 
       - icon: github
