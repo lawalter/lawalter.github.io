@@ -6,38 +6,42 @@ In 2017 and 2018, I recorded a few hundred hours of Red-headed Woodpecker (<i>Me
 
 Want to learn more? Check out a [summary of the results of my research](https://lawalter.github.io/projects.html#research)!
 
+## Chick
+
+Older woodpecker chicks often perch at the cavity entrance to watch the world outside.
+
+![](gifs/chick_clip_1.gif){fig-align="center" fig-alt="gif of Red-headed Woodpecker chick peeking out of a nest cavity"}
+
 ## Cleaning
 
 Most birds clean nestling waste from the nest or nest cavity when chicks are young.
 
-![](gifs/clean_clip.gif){fig-alt="gif of Red-headed Woodpecker cleaning a nest cavity"}
+![](gifs/clean_clip.gif){fig-align="center" fig-alt="gif of Red-headed Woodpecker cleaning a nest cavity"}
 
 ## Drumming
 
 Often done for territorial purposes.
 
-![](gifs/drumming.gif){fig-alt="gif of a drumming Red-headed Woodpecker"}
+![](gifs/drumming.gif){fig-align="center" fig-alt="gif of a drumming Red-headed Woodpecker"}
 
 ## Preening
 
 Important for cleanliness and to ensure feathers are in good shape for flying.
 
-![](gifs/preening_puffy.gif){fig-alt="gif of a preening Red-headed Woodpecker"}
+![](gifs/preening_puffy.gif){fig-align="center" fig-alt="gif of a preening Red-headed Woodpecker"}
 
 ## Provisioning
 
 Parents must provision, or bring food to, their offspring at the nest cavity.
 
-![](gifs/prov_clip_1.gif){fig-alt="gif of Red-headed Woodpecker bringing food to the nest"}
+::: {layout-ncol=2}
+![](gifs/prov_clip_1.gif){fig-alt="First gif of Red-headed Woodpecker bringing food to the nest"}
+
+![](gifs/prov_clip_4.gif){fig-alt="Second gif of Red-headed Woodpecker bringing food to the nest"}
+:::
 
 ## Resting
 
 A common behavior also referred to as "nest guarding" when done near the nest.
 
-![](gifs/stat.gif){fig-alt="gif of a resting Red-headed Woodpecker"}
-
-## Stretching
-
-Birds stretch for the same reasons people do!
-
-![](gifs/stretch.gif){fig-alt="gif of a stretching Red-headed Woodpecker"}
+![](gifs/stat.gif){fig-align="center" fig-alt="gif of a resting Red-headed Woodpecker"}
