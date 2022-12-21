@@ -46,8 +46,9 @@ website:
 format:
   html:
     theme: 
-      light: [cosmo, "css/custom_light.scss"]
-    css: "css/styles.css"
+      - cosmo
+      - css/custom_light.scss
+    css: css/styles.css
     toc: true
 
 
