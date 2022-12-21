@@ -1,6 +1,6 @@
 ---
 title: "Abby Walter"
-image: images/abby_walter.png
+image: images/abbywalter.png
 about:
   template: jolla
   links:
