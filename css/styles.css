@@ -1,26 +1,14 @@
 /* css styles */
-  
-a:hover {
-    color: #93df05;
-    text-decoration: none;
+
+/* Buttons */
+
+.btn-primary {
+    background-color: #60be65;
+    border-radius: 5px;
+    border-color: #FFFFFF;
 }
 
-.sidebar-item-text.sidebar-link.active { 
-    color: #60be65;
-    font-weight: bold;
-}
-
-.sidebar nav[role="doc-toc"] ul > li > a.active {
-    color: #60be65 !important;
-    font-weight: bold;
-}
-
-.sidebar nav[role="doc-toc"] ul > li > a:hover {
-    color: #93df05 !important;
-}
-
-
-.sidebar nav[role="doc-toc"] ul > li > ul > li > a.active {
-    color: #60be65 !important;
-    font-weight: bold;
+.btn-primary:hover {
+    background-color: #93df05;
+    border-color: #FFFFFF;
 }

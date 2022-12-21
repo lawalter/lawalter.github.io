@@ -7,6 +7,34 @@
     "text": "Born and raised in Delaware, I attended the University of Delaware to study Wildlife Conservation and Ecology in my hometown of Newark. During and after earning my undergraduate degree, I took seasonal field jobs from Rhode Island to Florida to work with species such as Wood Thrush, Piping Plovers, Red-cockaded Woodpeckers, white-footed deer mice, and frosted flatwoods salamanders. I eventually settled in Virginia to join the Bulluck Avian Ecology Lab at Virginia Commonwealth University, where I studied Red-headed Woodpecker sex-specific parental care behavior and home range size for my Master’s research. I later honed my data wrangling techniques at the Smithsonian Migratory Bird Center and realized managing wildlife data was the career for me.\nI am a certified Associate Wildlife Biologist and enjoy birding in my free time."
   },
   {
+    "objectID": "coding.html#gardenhelpr",
+    "href": "coding.html#gardenhelpr",
+    "title": "Code Projects",
+    "section": "gardenhelpr",
+    "text": "gardenhelpr\n\nIn development 2022-present \nI started this R Shiny app to assist in backyard garden planning. Initially, I had an idea to calculate the mean pH requirements of all of the plants I was hoping to grow in my yard. As I did more research, I learned about the benefits of companion planting (and drawbacks to planting “enemies” together)! When completed, the gardenhelpr app will be able to take a list of plants a user is planning to grow and output both (1) ideal growing conditions (pH, soil, light, etc) as well as (2) any plant relationships and subsequent spacing recommendations."
+  },
+  {
+    "objectID": "coding.html#colorband-combination-generator",
+    "href": "coding.html#colorband-combination-generator",
+    "title": "Code Projects",
+    "section": "Colorband Combination Generator",
+    "text": "Colorband Combination Generator\n\nComplete 2020 \nCreated as a test case for my r-shiny-electron-app repository, this is a simple R Shiny app packaged with Electron that creates random color combinations for bird banding. Colors can be selected based on what’s available in a banding kit, and selections are saved for future use via shinyStore."
+  },
+  {
+    "objectID": "coding.html#miscellaneous",
+    "href": "coding.html#miscellaneous",
+    "title": "Code Projects",
+    "section": "Miscellaneous",
+    "text": "Miscellaneous"
+  },
+  {
+    "objectID": "coding.html#shiny-electron-app-creation-guide",
+    "href": "coding.html#shiny-electron-app-creation-guide",
+    "title": "Code Projects",
+    "section": "Shiny Electron App Creation Guide",
+    "text": "Shiny Electron App Creation Guide\nComplete 2020 \nI wrote a step-by-step guide to creating a desktop application with R Shiny on both macOS and Windows using Electron."
+  },
+  {
     "objectID": "gifs.html",
     "href": "gifs.html",
     "title": "Gif Gallery",
@@ -58,36 +86,78 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Home",
+    "title": "Abby Walter",
     "section": "",
     "text": "Howdy, my name is Abby! I’m a Wildlife Biologist and Data Analyst located near Washington, DC. I work for the US Fish and Wildlife Service to process and manage migratory bird data with R and Python."
   },
   {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "Projects",
+    "objectID": "index.html#about",
+    "href": "index.html#about",
+    "title": "Abby Walter",
+    "section": "About",
+    "text": "About\nRead more about me!\nAbout"
+  },
+  {
+    "objectID": "index.html#publications",
+    "href": "index.html#publications",
+    "title": "Abby Walter",
+    "section": "Publications",
+    "text": "Publications\nCheck out my publications.\nPublications"
+  },
+  {
+    "objectID": "index.html#code-projects",
+    "href": "index.html#code-projects",
+    "title": "Abby Walter",
+    "section": "Code Projects",
+    "text": "Code Projects\nTake a look at the apps, packages, and data visualizations I’m working on.\nCode Projects"
+  },
+  {
+    "objectID": "index.html#research",
+    "href": "index.html#research",
+    "title": "Abby Walter",
+    "section": "Research",
+    "text": "Research\nLearn more about my research on Red-headed Woodpeckers.\nResearch"
+  },
+  {
+    "objectID": "index.html#gif-gallery",
+    "href": "index.html#gif-gallery",
+    "title": "Abby Walter",
+    "section": "Gif Gallery",
+    "text": "Gif Gallery\nWatch and use my Red-headed Woodpecker gifs!\nGifs"
+  },
+  {
+    "objectID": "index2.html",
+    "href": "index2.html",
+    "title": "Abby Walter",
     "section": "",
-    "text": "As part of my Master’s work with the Bulluck Avian Ecology Lab, I studied Red-headed Woodpecker (Melanerpes erythrocephalus) parental care behavior. Below is a summary of my research using a series of infographics. To learn more, check out my parental care publication."
-  },
-  {
-    "objectID": "projects.html#apps",
-    "href": "projects.html#apps",
-    "title": "Projects",
-    "section": "Apps",
-    "text": "Apps\n\nGarden Helpr\nRepository: https://github.com/lawalter/gardenhelprIn development. 2022-present\n\n\n\nI started this R Shiny app to assist in backyard garden planning. Initially, I had an idea to calculate the mean pH requirements of all of the plants I was hoping to grow in my yard. As I did more research, I learned about the benefits of companion planting (and drawbacks to planting “enemies” together)! When completed, the gardenhelpr app will be able to take a list of plants a user is planning to grow and output both (1) ideal growing conditions (pH, soil, light, etc) as well as (2) any plant relationships and subsequent spacing recommendations.\n\n\nColorband Combination Generator\nRepository: https://github.com/lawalter/colorband-appComplete. 2020\n\n\n\nCreated as a test case for my r-shiny-electron-app repository, this is a simple R Shiny app packaged with Electron that creates random color combinations for bird banding. Colors can be selected based on what’s available in a banding kit, and selections are saved for future use via shinyStore."
-  },
-  {
-    "objectID": "projects.html#guides",
-    "href": "projects.html#guides",
-    "title": "Projects",
-    "section": "Guides",
-    "text": "Guides\n\nShiny Electron App Creation Guide\nRepository: https://github.com/lawalter/r-shiny-electron-appComplete. 2020\nThis is a guide to creating a desktop R Shiny app on both macOS and Windows with Electron."
+    "text": "Howdy, my name is Abby! I’m a Wildlife Biologist and Data Analyst located near Washington, DC. I work for the US Fish and Wildlife Service to process and manage migratory bird data with R and Python.\n\n\n\n\nAbout\n\nRead more about me!\n\nAbout\n\n\n\n\n\n\nPublications\n\nCheck out my publications.\n\nPublications\n\n\n\n\n\n\nCode Projects\n\nTake a look at the apps, packages, and data visualizations I’m working on.\n\nCode Projects\n\n\n\n\n\n\nResearch\n\nLearn more about my research on Red-headed Woodpeckers.\n\nResearch\n\n\n\n\n\n\nGif Gallery\n\nWatch and use my Red-headed Woodpecker gifs!\n\nGifs"
   },
   {
     "objectID": "publications.html",
     "href": "publications.html",
     "title": "Publications",
     "section": "",
-    "text": "Thumbnail\nCitation\n\n\n\n\n\nWalter, L. A., C. B. Viverette, and L. P. Bulluck. Accepted. Parental care in a sexually monomorphic Picid, the Red-headed Woodpecker. Journal of Field Ornithology.  Access: PDF, Online, Data Repository\n\n\n\nBulluck, L., B. Nickley, A. Walter, and C. Viverette. 2018. Species co-occurrence patterns among cavity nesting birds across seasons and in a landscapes with varying habitat complexity. In ECCB2018: 5th European Congress of Conservation Biology. 12th-15th of June 2018, Jyväskylä, Finland. Open Science Centre, University of Jyväskylä."
+    "text": "Thumbnail\nCitation\n\n\n\n\n\nWalter, L. A., C. B. Viverette, and L. P. Bulluck. (2022). Parental care in a sexually monomorphic Picid, the Red-headed Woodpecker. Journal of Field Ornithology 93(2):3  Access: PDF, Online, Data Repository\n\n\n\nBulluck, L., B. Nickley, A. Walter, and C. Viverette. 2018. Species co-occurrence patterns among cavity nesting birds across seasons and in a landscapes with varying habitat complexity. In ECCB2018: 5th European Congress of Conservation Biology. 12th-15th of June 2018, Jyväskylä, Finland. Open Science Centre, University of Jyväskylä."
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Red-headed Woodpecker Research",
+    "section": "",
+    "text": "I studied parental care behavior, home range size, and feather reflectance of Red-headed Woodpeckers (Melanerpes erythrocephalus) as part of my Master’s work with the Bulluck Avian Ecology Lab."
+  },
+  {
+    "objectID": "research.html#parental-care-behavior",
+    "href": "research.html#parental-care-behavior",
+    "title": "Red-headed Woodpecker Research",
+    "section": "Parental care behavior",
+    "text": "Parental care behavior\nWhat do Red-headed Woodpecker moms and dads have in common? Withput plumage or significant size differences, they look virtually idential. And they’re both great parents! Below is a summary of my research using a series of infographics. To learn more, check out my parental care publication."
+  },
+  {
+    "objectID": "research.html#nestling-development",
+    "href": "research.html#nestling-development",
+    "title": "Red-headed Woodpecker Research",
+    "section": "Nestling development",
+    "text": "Nestling development\nMy paper’s appendix contains details regarding Red-headed Woodpecker nestling development. Benchmarks in growth can be used in future research to determine chick ages in nests with unknown hatch dates."
   }
 ]

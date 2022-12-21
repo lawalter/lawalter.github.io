@@ -7,16 +7,21 @@ project:
 
 website:
   title: "Abby Walter"
+  description: "Wildlife Biologist and Data Analyst"
   favicon: images/favicon.ico
-  page-footer: 
-    center: Abby Walter's personal website. [Disclaimer](https://github.com/lawalter/lawalter.github.io/blob/master/DISCLAIMER.md). [License](https://github.com/lawalter/lawalter.github.io/blob/master/LICENSE).
-  sidebar:
+  site-url: "https://lawalter.github.io"
+  repo-url: "https://github.com/lawalter/lawalter.github.io"
+  search: false
+  navbar:
     title: Abby Walter
-    style: floating
-    logo: images/abby_walter.png
-    logo-alt: A photo of Abby
-    search: false
-    tools: 
+    left:
+      - about.qmd
+      - publications.qmd
+      - coding.qmd
+      - text: "Research"
+        href: research.qmd
+      - gifs.qmd    
+    right: 
       - icon: github
         href: http://github.com/lawalter
       - icon: mastodon
@@ -25,23 +30,25 @@ website:
         href: http://twitter.com/lawaltr
       - icon: binoculars-fill
         href: https://ebird.org/profile/MjgzMDYw/US
+      - text: "{{< ai orcid >}}"
+        href: https://orcid.org/0000-0003-4017-5596
       - icon: envelope-fill
-        href: mailto:lawalter@vcu.edu        
-    contents:
-      - href: index.qmd
-        text: Home
-      - about.qmd
-      - publications.qmd
-      - projects.qmd
-      - gifs.qmd
+        href: mailto:lawalter@vcu.edu   
+    search: false   
+  page-footer: 
+    center: Abby Walter's personal website. Made with [Quarto](https://quarto.org/).<br>[Disclaimer](https://github.com/lawalter/lawalter.github.io/blob/master/DISCLAIMER.md). [License](https://github.com/lawalter/lawalter.github.io/blob/master/LICENSE).
+  twitter-card: 
+    creator: "@lawaltr"
+    image: "images/abby_walter.png"
+  open-graph: 
+    image: "images/abby_walter.png"
 
 format:
   html:
     theme: 
-    - cosmo
-    - css/custom.scss
-    linkcolor: "#60be65"
-    css: css/styles.css
+      light: [cosmo, "css/custom_light.scss"]
+      #dark: [solar, "css/custom_dark.scss"]
+    css: "css/styles.css"
     toc: true
 
 
