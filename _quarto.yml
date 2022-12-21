@@ -47,7 +47,6 @@ format:
   html:
     theme: 
       light: [cosmo, "css/custom_light.scss"]
-      #dark: [solar, "css/custom_dark.scss"]
     css: "css/styles.css"
     toc: true
 
