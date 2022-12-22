@@ -1,0 +1,73 @@
+/*-- scss:defaults --*/
+
+$toc-active-border: #259ac8;
+$navbar-bg: #FFFFFF;
+$link-color: #259ac8;
+$link-hover-color: #58c3ed;
+$link-hover-decoration: none;
+
+/* Index page grid */
+
+.g-col-md-6, .g-col-12 {
+    background-color: #fbfbfb;
+    border-radius: 5px;
+    border-width: 1px;
+    border-color: #58c3ed;
+    border-style: solid;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+/* Navbar Link Colors */
+
+.navbar-nav .nav-link:hover {
+    color: #58c3ed !important;
+}
+
+.navbar-nav .nav-link:focus {
+    color: #58c3ed !important;
+}
+
+.navbar-nav .nav-link.active {
+    color: #259ac8 !important;
+}
+
+.navbar-title:hover {
+    color: #58c3ed !important;
+}
+
+.navbar-title:focus {
+    color: #58c3ed !important;
+}
+
+.navbar-title.active {
+    color: #259ac8 !important;
+}
+
+.navbar-brand:hover {
+    color: #58c3ed !important;
+}
+
+.navbar-brand:focus {
+    color: #58c3ed !important;
+}
+
+.navbar-brand.active {
+    color: #259ac8 !important;
+}
+
+/* TOC */
+
+.sidebar nav[role="doc-toc"] ul > li > a.active {
+    color: #259ac8 !important;
+    font-weight: bold;
+}
+
+.sidebar nav[role="doc-toc"] ul > li > a:hover {
+    color: #58c3ed !important;
+}
+
+.sidebar nav[role="doc-toc"] ul > li > ul > li > a.active {
+    color: #259ac8 !important;
+    font-weight: bold;
+}

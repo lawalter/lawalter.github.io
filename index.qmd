@@ -5,7 +5,7 @@ about:
   template: jolla
   links:
     - icon: github
-      text: Github
+      text: GitHub
       href: http://github.com/lawalter
     - icon: mastodon
       text: Mastodon

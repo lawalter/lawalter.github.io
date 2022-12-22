@@ -13,6 +13,7 @@ website:
   repo-url: "https://github.com/lawalter/lawalter.github.io"
   search: false
   navbar:
+    logo: images/abbywalter.png
     title: Abby Walter
     left:
       - about.qmd
@@ -47,7 +48,7 @@ format:
   html:
     theme: 
       - cosmo
-      - css/custom_light.scss
+      - css/custom_blue.scss
     css: css/styles.css
     toc: true
 

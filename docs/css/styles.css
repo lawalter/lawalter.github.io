@@ -3,12 +3,12 @@
 /* Buttons */
 
 .btn-primary {
-    background-color: #60be65;
+    background-color: #259ac8;
     border-radius: 5px;
     border-color: #FFFFFF;
 }
 
 .btn-primary:hover {
-    background-color: #93df05;
+    background-color: #58c3ed;
     border-color: #FFFFFF;
 }
