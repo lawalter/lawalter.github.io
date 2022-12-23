@@ -37,7 +37,7 @@ website:
         href: mailto:lawalter@vcu.edu   
     search: false   
   page-footer: 
-    center: Abby Walter's personal website. Made with [Quarto](https://quarto.org/).<br>[Disclaimer](https://github.com/lawalter/lawalter.github.io/blob/master/DISCLAIMER.md). [License](https://github.com/lawalter/lawalter.github.io/blob/master/LICENSE).
+    center: Abby Walter's personal website. Made with [Quarto](https://quarto.org/).<br>[Repository](https://github.com/lawalter/lawalter.github.io). [Disclaimer](https://github.com/lawalter/lawalter.github.io/blob/master/DISCLAIMER.md). [License](https://github.com/lawalter/lawalter.github.io/blob/master/LICENSE).
   twitter-card: 
     creator: "@lawaltr"
     image: "images/abby_walter.png"
@@ -47,7 +47,7 @@ website:
 format:
   html:
     theme: 
-      - cosmo
+      - litera
       - css/custom_blue.scss
     css: css/styles.css
     toc: true

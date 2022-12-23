@@ -24,8 +24,8 @@ about:
 navbar: false
 ---
 
-
 Howdy, my name is Abby! I'm a Wildlife Biologist and Data Analyst located near Washington, DC. I work for the US Fish and Wildlife Service to process and manage migratory bird data with R and Python.
+
 
 ::: {.grid}
 
@@ -53,7 +53,7 @@ Check out my publications.
 
 ## Code Projects
 
-Take a look at the apps, packages, and data visualizations I’m working on.
+Take a look at the apps I’m working on.
 
 <a href="coding.html" class="btn btn-primary">Code Projects</a>
 
