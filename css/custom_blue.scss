@@ -5,6 +5,7 @@ $navbar-bg: #FFFFFF;
 $link-color: #259ac8;
 $link-hover-color: #58c3ed;
 $link-hover-decoration: none;
+$secondary: #DDDDDD;
 
 /* Index page grid */
 
@@ -16,6 +17,10 @@ $link-hover-decoration: none;
     border-style: solid;
     padding-left: 10px;
     padding-right: 10px;
+}
+
+.g-col-md-6 .p, .g-col-12 {
+    font-family: sans-serif !important;
 }
 
 /* Navbar Link Colors */
