@@ -7,22 +7,6 @@ $link-hover-color: #58c3ed;
 $link-hover-decoration: none;
 $secondary: #DDDDDD;
 
-/* Index page grid */
-
-.g-col-md-6, .g-col-12 {
-    background-color: #fbfbfb;
-    border-radius: 5px;
-    border-width: 1px;
-    border-color: #58c3ed;
-    border-style: solid;
-    padding-left: 10px;
-    padding-right: 10px;
-}
-
-.g-col-md-6 .p, .g-col-12 {
-    font-family: sans-serif !important;
-}
-
 /* Navbar Link Colors */
 
 .navbar-nav .nav-link:hover {

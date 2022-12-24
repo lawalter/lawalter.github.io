@@ -1,81 +1,22 @@
 ---
-title: "Abby Walter"
-image: images/abbywalter.png
-about:
-  template: jolla
-  links:
-    - icon: github
-      text: GitHub
-      href: http://github.com/lawalter
-    - icon: mastodon
-      text: Mastodon
-      href: https://fosstodon.org/@abby
-    - icon: twitter
-      text: Twitter
-      href: http://twitter.com/lawaltr
-    - icon: binoculars-fill
-      text: eBird
-      href: https://ebird.org/profile/MjgzMDYw/US
-    - text: "{{< ai orcid >}}  Orcid"
-      href: https://orcid.org/0000-0003-4017-5596
-    - icon: envelope-fill
-      text: Email
-      href: mailto:lawalter@vcu.edu
-navbar: false
+page-layout: full
+navbar: true
 ---
-
-Howdy, my name is Abby! I'm a Wildlife Biologist and Data Analyst located near Washington, DC. I work for the US Fish and Wildlife Service to process and manage migratory bird data with R and Python.
-
 
 ::: {.grid}
 
 ::: {.g-col-12 .g-col-md-6}
 
-## About
-
-Read more about me!
-
-<a href="about.html" class="btn btn-primary">About</a>
+![](images/abbywalter.png){fig-alt="Photo of Abby on top of Mount Washington." fig-align="center" width=80%}
 
 :::
 
 ::: {.g-col-12 .g-col-md-6}
 
-## Publications
+# Abby Walter
+[{{< fa brands github text="GitHub" >}}](http://github.com/lawalter) [{{< fa brands mastodon text="Mastodon" >}}](https://fosstodon.org/@abby) [{{< fa brands twitter text="Twitter" >}}](http://twitter.com/lawaltr) [<i class="bi bi-binoculars-fill"></i>](https://ebird.org/profile/MjgzMDYw/US) [{{< ai orcid text="Orcid" >}}](https://orcid.org/0000-0003-4017-5596) [<i class="bi bi-envelope-fill"></i>](mailto:lawalter@vcu.edu)
 
-Check out my publications.
-
-<a href="publications.html" class="btn btn-primary">Publications</a>
-
-:::
-
-::: {.g-col-12 .g-col-md-6}
-
-## Code Projects
-
-Take a look at the apps I’m working on.
-
-<a href="coding.html" class="btn btn-primary">Code Projects</a>
-
-:::
-
-::: {.g-col-12 .g-col-md-6}
-
-## Research
-
-Learn more about my research on Red-headed Woodpeckers.
-
-<a href="research.html" class="btn btn-primary">Research</a>
-
-:::
-
-::: {.g-col-12 .g-col-md-6}
-
-## Gif Gallery
-
-Watch and use my Red-headed Woodpecker gifs!
-
-<a href="gifs.html" class="btn btn-primary">Gifs</a>
+Howdy, my name is Abby! I'm a Wildlife Biologist and Data Analyst located near Washington, DC. I work for the US Fish and Wildlife Service to process and manage migratory bird data with R and Python.
 
 :::
 

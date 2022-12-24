@@ -3,31 +3,41 @@ title: "Code Projects"
 page-layout: full
 ---
 
+When I can find the time, I like to tinker! Below are some past and current projects started on the weekends or during internships, mostly made with R or R Shiny. I am currently honing my Python skills and also trying to learn Julia. 
+
+I've only included my personal projects on this page. To see the R packages I created and maintain for work, check out the official [USFWS GitHub](https://github.com/USFWS).
+
 ## Apps
 
 ::: {.grid}
 
 ::: {.g-col-12 .g-col-md-6}
 
-## gardenhelpr
-
-![](images/gh_app.png){fig-alt="Screenshot of Garden Helper application"}
+<div class="card bg-light mb-3">
+  <div class="card-header">gardenhelpr</div>
+  <div class="card-body">
+  ![](images/gh_app.png){fig-alt="Screenshot of Garden Helper application" fig-align="center"}
 
 <span class="badge rounded-pill bg-warning">In development</span> <span class="badge rounded-pill bg-secondary">2022-present</span> [{{< fa brands github title = "GitHub link to Garden Helper repository" >}}](https://github.com/lawalter/gardenhelpr)
 
-I started this R Shiny app to assist in backyard garden planning. Initially, I had an idea to calculate the mean pH requirements of all of the plants I was hoping to grow in my yard. As I did more research, I learned about the benefits of companion planting (and drawbacks to planting "enemies" together)! When completed, the gardenhelpr app will be able to take a list of plants a user is planning to grow and output both (1) ideal growing conditions (pH, soil, light, etc) as well as (2) any plant relationships and subsequent spacing recommendations.
+<p class="card-text">I started this R Shiny app to assist in backyard garden planning. Initially, I had an idea to calculate the mean pH requirements of all of the plants I was hoping to grow in my yard. As I did more research, I learned about the benefits of companion planting (and drawbacks to planting "enemies" together)! When completed, the gardenhelpr app will be able to take a list of plants a user is planning to grow and output both (1) ideal growing conditions (pH, soil, light, etc) as well as (2) any plant relationships and subsequent spacing recommendations.</p>
+  </div>
+</div>
 
 :::
 
 ::: {.g-col-12 .g-col-md-6}
 
-## Colorband Combination Generator
-
-![](images/app_img_m.png){fig-alt="Screenshot of Colorband Combination desktop app"}
+<div class="card bg-light mb-3">
+  <div class="card-header">Colorband Combination Generator</div>
+  <div class="card-body">
+  ![](images/app_img_m.png){fig-alt="Screenshot of Colorband Combination desktop app" fig-align="center"}
 
 <span class="badge rounded-pill bg-success">Complete</span> <span class="badge rounded-pill bg-secondary">2020</span> [{{< fa brands github title = "GitHub link to Colorband Combination Generator repository >}}](https://github.com/lawalter/colorband-app) 
 
-Created as a test case for my [r-shiny-electron-app](https://github.com/lawalter/r-shiny-electron-app) repository, this is a simple R Shiny app packaged with Electron that creates random color combinations for bird banding. Colors can be selected based on what's available in a banding kit, and selections are saved for future use via [shinyStore](https://github.com/trestletech/shinyStore).
+<p class="card-text">Created as a test case for my [r-shiny-electron-app](https://github.com/lawalter/r-shiny-electron-app) repository, this is a simple R Shiny app packaged with Electron that creates random color combinations for bird banding. Colors can be selected based on what's available in a banding kit, and selections are saved for future use via [shinyStore](https://github.com/trestletech/shinyStore).</p>
+  </div>
+</div>
 
 :::
 
@@ -39,11 +49,15 @@ Created as a test case for my [r-shiny-electron-app](https://github.com/lawalter
 
 ::: {.g-col-12 .g-col-md-6}
 
-## Shiny Electron App Creation Guide 
+<div class="card bg-light mb-3">
+  <div class="card-header">Shiny Electron App Creation Guide</div>
+  <div class="card-body">
 
 <span class="badge rounded-pill bg-success">Complete</span> <span class="badge rounded-pill bg-secondary">2020</span> [{{< fa brands github title = "GitHub link to R Shiny Electron App repository" >}}](https://github.com/lawalter/r-shiny-electron-app) 
 
-I wrote a step-by-step guide to creating a desktop application with R Shiny on both macOS and Windows using Electron.
+<p class="card-text">I wrote a step-by-step guide to creating a desktop application with R Shiny on both macOS and Windows using Electron.</p>
+  </div>
+</div>
 
 :::
 

@@ -30,6 +30,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
@@ -37,6 +38,8 @@ ul.task-list li input[type="checkbox"] {
 <link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
 <link href="site_libs/quarto-contrib/academicons-1.9.2/all.css" rel="stylesheet">
 <link href="site_libs/quarto-contrib/academicons-1.9.2/size.css" rel="stylesheet">
+<link href="site_libs/quarto-contrib/fontawesome6-0.1.0/all.css" rel="stylesheet">
+<link href="site_libs/quarto-contrib/fontawesome6-0.1.0/latex-fontsize.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "language": {
     "search-no-results-text": "No results",
@@ -53,14 +56,12 @@ ul.task-list li input[type="checkbox"] {
 
 
 <link rel="stylesheet" href="css/styles.css">
-<meta property="og:title" content="Abby Walter">
-<meta property="og:description" content="Howdy, my name is Abby! I’m a Wildlife Biologist and Data Analyst located near Washington, DC. I work for the US Fish and Wildlife Service to process and manage migratory bird data with R and Python.">
+<meta property="og:title" content="">
 <meta property="og:image" content="https://lawalter.github.io/images\abby_walter.png">
 <meta property="og:site-name" content="Abby Walter">
 <meta property="og:image:height" content="718">
 <meta property="og:image:width" content="718">
-<meta name="twitter:title" content="Abby Walter">
-<meta name="twitter:description" content="Howdy, my name is Abby! I’m a Wildlife Biologist and Data Analyst located near Washington, DC. I work for the US Fish and Wildlife Service to process and manage migratory bird data with R and Python.">
+<meta name="twitter:title" content="">
 <meta name="twitter:image" content="https://lawalter.github.io/images\abby_walter.png">
 <meta name="twitter:creator" content="@lawaltr">
 <meta name="twitter:image-height" content="718">
@@ -68,84 +69,111 @@ ul.task-list li input[type="checkbox"] {
 <meta name="twitter:card" content="summary_large_image">
 </head>
 
-<body class="fullcontent">
+<body class="nav-fixed">
 
 <div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+    <nav class="navbar navbar-expand-lg navbar-dark ">
+      <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container">
+    <a href="./index.html" class="navbar-brand navbar-brand-logo">
+    <img src="./images/abbywalter.png" alt="" class="navbar-logo">
+    </a>
+    <a class="navbar-brand" href="./index.html">
+    <span class="navbar-title">Abby Walter</span>
+    </a>
+  </div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll me-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="./about.html">
+ <span class="menu-text">About</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./publications.html">
+ <span class="menu-text">Publications</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./coding.html">
+ <span class="menu-text">Code Projects</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./research.html">
+ <span class="menu-text">Research</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./gifs.html">
+ <span class="menu-text">Gif Gallery</span></a>
+  </li>  
+</ul>
+            <ul class="navbar-nav navbar-nav-scroll ms-auto">
+  <li class="nav-item compact">
+    <a class="nav-link" href="http://github.com/lawalter"><i class="bi bi-github" role="img">
+</i> 
+ <span class="menu-text"></span></a>
+  </li>  
+  <li class="nav-item compact">
+    <a class="nav-link" href="https://fosstodon.org/@abby"><i class="bi bi-mastodon" role="img">
+</i> 
+ <span class="menu-text"></span></a>
+  </li>  
+  <li class="nav-item compact">
+    <a class="nav-link" href="http://twitter.com/lawaltr"><i class="bi bi-twitter" role="img">
+</i> 
+ <span class="menu-text"></span></a>
+  </li>  
+  <li class="nav-item compact">
+    <a class="nav-link" href="https://ebird.org/profile/MjgzMDYw/US"><i class="bi bi-binoculars-fill" role="img">
+</i> 
+ <span class="menu-text"></span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="https://orcid.org/0000-0003-4017-5596">
+ <span class="menu-text"><i class="ai  ai-orcid" title="" style="color:"></i></span></a>
+  </li>  
+  <li class="nav-item compact">
+    <a class="nav-link" href="mailto:lawalter@vcu.edu"><i class="bi bi-envelope-fill" role="img">
+</i> 
+ <span class="menu-text"></span></a>
+  </li>  
+</ul>
+          </div> <!-- /navcollapse -->
+      </div> <!-- /container-fluid -->
+    </nav>
+</header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
+        
+    </div>
 <!-- main -->
-<div class="quarto-about-jolla">
-  <img src="images/abbywalter.png" class="about-image
-  round " style="height: 15em; width: 15em;">
- <header id="title-block-header" class="quarto-title-block default">
-<div class="quarto-title">
-<h1 class="title">Abby Walter</h1>
-</div>
-<div class="quarto-title-meta">
-  </div>
-</header><main class="content" id="quarto-document-content">
-<p>Howdy, my name is Abby! I’m a Wildlife Biologist and Data Analyst located near Washington, DC. I work for the US Fish and Wildlife Service to process and manage migratory bird data with R and Python.</p>
+<main class="content column-page" id="quarto-document-content">
+
+
+
 <div class="grid">
-<section id="about" class="level2 g-col-12 g-col-md-6">
-<h2 data-anchor-id="about">About</h2>
-<p>Read more about me!</p>
-<p><a href="about.html" class="btn btn-primary">About</a></p>
-</section>
-<section id="publications" class="level2 g-col-12 g-col-md-6">
-<h2 data-anchor-id="publications">Publications</h2>
-<p>Check out my publications.</p>
-<p><a href="publications.html" class="btn btn-primary">Publications</a></p>
-</section>
-<section id="code-projects" class="level2 g-col-12 g-col-md-6">
-<h2 data-anchor-id="code-projects">Code Projects</h2>
-<p>Take a look at the apps I’m working on.</p>
-<p><a href="coding.html" class="btn btn-primary">Code Projects</a></p>
-</section>
-<section id="research" class="level2 g-col-12 g-col-md-6">
-<h2 data-anchor-id="research">Research</h2>
-<p>Learn more about my research on Red-headed Woodpeckers.</p>
-<p><a href="research.html" class="btn btn-primary">Research</a></p>
-</section>
-<section id="gif-gallery" class="level2 g-col-12 g-col-md-6">
-<h2 data-anchor-id="gif-gallery">Gif Gallery</h2>
-<p>Watch and use my Red-headed Woodpecker gifs!</p>
-<p><a href="gifs.html" class="btn btn-primary">Gifs</a></p>
+<div class="g-col-12 g-col-md-6">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/abbywalter.png" class="img-fluid figure-img" style="width:80.0%" alt="Photo of Abby on top of Mount Washington."></p>
+</figure>
+</div>
+</div>
+<section id="abby-walter" class="level1 g-col-12 g-col-md-6">
+<h1>Abby Walter</h1>
+<p><a href="http://github.com/lawalter"><i class="fa-brands fa-github" aria-label="github"></i></a> <a href="https://fosstodon.org/@abby"><i class="fa-brands fa-mastodon" aria-label="mastodon"></i></a> <a href="http://twitter.com/lawaltr"><i class="fa-brands fa-twitter" aria-label="twitter"></i></a> <a href="https://ebird.org/profile/MjgzMDYw/US"><i class="bi bi-binoculars-fill"></i></a> <a href="https://orcid.org/0000-0003-4017-5596"><i class="ai  ai-orcid" title="" style="color:"></i></a> <a href="mailto:lawalter@vcu.edu"><i class="bi bi-envelope-fill"></i></a></p>
+<p>Howdy, my name is Abby! I’m a Wildlife Biologist and Data Analyst located near Washington, DC. I work for the US Fish and Wildlife Service to process and manage migratory bird data with R and Python.</p>
 </section>
 </div>
 
 
-</main> 
-  <hr class="about-sep">
-   <div class="about-links">
-  <a href="http://github.com/lawalter" class="about-link">
-    <i class="bi bi-github"></i>
-     <span class="about-link-text">GitHub</span>
-  </a>
-  <a href="https://fosstodon.org/@abby" class="about-link">
-    <i class="bi bi-mastodon"></i>
-     <span class="about-link-text">Mastodon</span>
-  </a>
-  <a href="http://twitter.com/lawaltr" class="about-link">
-    <i class="bi bi-twitter"></i>
-     <span class="about-link-text">Twitter</span>
-  </a>
-  <a href="https://ebird.org/profile/MjgzMDYw/US" class="about-link">
-    <i class="bi bi-binoculars-fill"></i>
-     <span class="about-link-text">eBird</span>
-  </a>
-  <a href="https://orcid.org/0000-0003-4017-5596" class="about-link">
-     <span class="about-link-text"><i class="ai  ai-orcid" title="" style="color:"></i> Orcid</span>
-  </a>
-  <a href="mailto:lawalter@vcu.edu" class="about-link">
-    <i class="bi bi-envelope-fill"></i>
-     <span class="about-link-text">Email</span>
-  </a>
-</div>
-</div>
- <!-- /main -->
+
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -166,6 +194,13 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
   }
   toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
   const clipboard = new window.ClipboardJS('.code-copy-button', {
     target: function(trigger) {
       return trigger.previousElementSibling;
