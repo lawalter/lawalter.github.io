@@ -11,7 +11,7 @@
     "href": "coding.html",
     "title": "Code Projects",
     "section": "",
-    "text": "When I can find the time, I like to tinker! Below are some past and current projects started on the weekends or during internships, mostly made with R or R Shiny. I am currently honing my Python skills and also trying to learn Julia.\nI’ve only included my personal projects on this page. To see the R packages I created and maintain for work, check out the official USFWS GitHub."
+    "text": "When I can find the time, I like to tinker! Below are some past and current personal projects mostly done in R or R Shiny. I am currently honing my Python skills and also trying to learn Julia.\nTo see the R packages I created and maintain in an official capacity, check out the USFWS GitHub."
   },
   {
     "objectID": "coding.html#apps",
@@ -102,7 +102,7 @@
     "href": "research.html#parental-care-behavior",
     "title": "Red-headed Woodpecker Research",
     "section": "Parental care behavior",
-    "text": "Parental care behavior\nWhat do Red-headed Woodpecker moms and dads have in common? Withput plumage or significant size differences, they look virtually idential. And they’re both great parents! Below is a summary of my research using a series of infographics. To learn more, check out my parental care publication."
+    "text": "Parental care behavior\nWhat do Red-headed Woodpecker moms and dads have in common? Withput plumage or significant size differences, they look virtually identical. And they’re both great parents! Below is a summary of my research using a series of infographics. To learn more, check out my parental care publication or the parental care data repository."
   },
   {
     "objectID": "research.html#nestling-development",
@@ -110,5 +110,26 @@
     "title": "Red-headed Woodpecker Research",
     "section": "Nestling development",
     "text": "Nestling development\nMy paper’s appendix contains details regarding Red-headed Woodpecker nestling development. Benchmarks in growth can be used in future research to determine chick ages in nests with unknown hatch dates."
+  },
+  {
+    "objectID": "research.html#chick-fledge-events",
+    "href": "research.html#chick-fledge-events",
+    "title": "Red-headed Woodpecker Research",
+    "section": "Chick fledge events",
+    "text": "Chick fledge events\nRed-headed Woodpecker parents work tirelessly for the day their chicks leave the nest. In all of the hours recording videos at active nest cavities we managed to capture footage of a chick fledging on two occasions. Though not of cinematic quality, this footage captures a life history event that was not previously documented. Both fledging videos are archived at the Macaulay Library (ML488612, ML488613)."
+  },
+  {
+    "objectID": "research.html#home-range-size",
+    "href": "research.html#home-range-size",
+    "title": "Red-headed Woodpecker Research",
+    "section": "Home range size",
+    "text": "Home range size\nThis work is yet to be published but is well documented in my Master’s thesis. We estimated home range sizes of 25 breeding adult Red-headed Woodpeckers using PinPoint GPS tags and 95% kernel density estimates. Based on this preliminary analysis, we determined Red-headed Woodpecker males have larger home ranges than females, though this difference is not significant."
+  },
+  {
+    "objectID": "research.html#crown-feather-reflectance",
+    "href": "research.html#crown-feather-reflectance",
+    "title": "Red-headed Woodpecker Research",
+    "section": "Crown feather reflectance",
+    "text": "Crown feather reflectance\nWe collected crown feathers from 68 banded Red-headed Woodpeckers. From the feather samples, we measured carotenoid content and overall brightness. These data are still being analyzed; we plan to assess whether individual parental care effort is related to feather ornamentation, and/or if males and females can be distinguished using feather reflectance."
   }
 ]

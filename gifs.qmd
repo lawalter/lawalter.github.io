@@ -5,7 +5,7 @@ page-layout: full
 
 In 2017 and 2018, I recorded a few hundred hours of Red-headed Woodpecker (<i>Melanerpes erythrocephalus</i>) videos for my research on parental care behavior as part of my Master's work with the [Bulluck Avian Ecology Lab](https://rampages.us/bullucklab/). Woodpeckers were captured and given special leg bands in unique color combinations so I could tell them apart. Breeding pairs were then recorded at nest cavities from May to August at Fort A.P. Hill, Virginia, USA. I converted some of the most interesting clips into gifs to share with the public. Feel free to use the gifs below under the [CC BY-SA License](https://creativecommons.org/licenses/by-sa/4.0/). 
 
-Want to learn more? Check out a [summary of the results of my research](https://lawalter.github.io/research.html#parental-care-behavior)!
+Want to learn more? Check out a [summary of the results](https://lawalter.github.io/research.html#parental-care-behavior) of my research!
 
 ## Chick
 

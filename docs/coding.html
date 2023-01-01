@@ -57,13 +57,13 @@ ul.task-list li input[type="checkbox"] {
 
 <link rel="stylesheet" href="css/styles.css">
 <meta property="og:title" content="Abby Walter - Code Projects">
-<meta property="og:description" content="When I can find the time, I like to tinker! Below are some past and current projects started on the weekends or during internships, mostly made with R or R Shiny.">
+<meta property="og:description" content="When I can find the time, I like to tinker! Below are some past and current personal projects mostly done in R or R Shiny. I am currently honing my Python skills and also trying to learn Julia.">
 <meta property="og:image" content="https://lawalter.github.io/images\abby_walter.png">
 <meta property="og:site-name" content="Abby Walter">
 <meta property="og:image:height" content="718">
 <meta property="og:image:width" content="718">
 <meta name="twitter:title" content="Abby Walter - Code Projects">
-<meta name="twitter:description" content="When I can find the time, I like to tinker! Below are some past and current projects started on the weekends or during internships, mostly made with R or R Shiny.">
+<meta name="twitter:description" content="When I can find the time, I like to tinker! Below are some past and current personal projects mostly done in R or R Shiny. I am currently honing my Python skills and also trying to learn Julia.">
 <meta name="twitter:image" content="https://lawalter.github.io/images\abby_walter.png">
 <meta name="twitter:creator" content="@lawaltr">
 <meta name="twitter:image-height" content="718">
@@ -180,8 +180,8 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
-<p>When I can find the time, I like to tinker! Below are some past and current projects started on the weekends or during internships, mostly made with R or R Shiny. I am currently honing my Python skills and also trying to learn Julia.</p>
-<p>I’ve only included my personal projects on this page. To see the R packages I created and maintain for work, check out the official <a href="https://github.com/USFWS">USFWS GitHub</a>.</p>
+<p>When I can find the time, I like to tinker! Below are some past and current personal projects mostly done in R or R Shiny. I am currently honing my Python skills and also trying to learn Julia.</p>
+<p>To see the R packages I created and maintain in an official capacity, check out the <a href="https://github.com/USFWS">USFWS GitHub</a>.</p>
 <section id="apps" class="level2">
 <h2 class="anchored" data-anchor-id="apps">Apps</h2>
 <div class="grid">
@@ -376,6 +376,20 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       });
     }
   }
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+      var filterRegex = new RegExp(/https:\/\/lawalter\.github\.io/);
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href);
+    }
+    // Inspect non-navigation links and adorn them if external
+    var links = window.document.querySelectorAll('a:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+          // target, if specified
+          link.setAttribute("target", "_blank");
+      }
+    }
 });
 </script>
 </div> <!-- /content -->

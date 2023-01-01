@@ -183,7 +183,7 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 <p>In 2017 and 2018, I recorded a few hundred hours of Red-headed Woodpecker (<i>Melanerpes erythrocephalus</i>) videos for my research on parental care behavior as part of my Master’s work with the <a href="https://rampages.us/bullucklab/">Bulluck Avian Ecology Lab</a>. Woodpeckers were captured and given special leg bands in unique color combinations so I could tell them apart. Breeding pairs were then recorded at nest cavities from May to August at Fort A.P. Hill, Virginia, USA. I converted some of the most interesting clips into gifs to share with the public. Feel free to use the gifs below under the <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA License</a>.</p>
-<p>Want to learn more? Check out a <a href="https://lawalter.github.io/research.html#parental-care-behavior">summary of the results of my research</a>!</p>
+<p>Want to learn more? Check out a <a href="https://lawalter.github.io/research.html#parental-care-behavior">summary of the results</a> of my research!</p>
 <section id="chick" class="level2">
 <h2 class="anchored" data-anchor-id="chick">Chick</h2>
 <p>Older woodpecker chicks often perch at the cavity entrance to watch the world outside.</p>
@@ -378,6 +378,20 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       });
     }
   }
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+      var filterRegex = new RegExp(/https:\/\/lawalter\.github\.io/);
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href);
+    }
+    // Inspect non-navigation links and adorn them if external
+    var links = window.document.querySelectorAll('a:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+          // target, if specified
+          link.setAttribute("target", "_blank");
+      }
+    }
 });
 </script>
 </div> <!-- /content -->

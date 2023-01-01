@@ -46,6 +46,8 @@ website:
 
 format:
   html:
+    link-external-icon: false
+    link-external-newwindow: true
     theme: 
       - litera
       - css/custom_blue.scss

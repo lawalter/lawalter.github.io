@@ -155,6 +155,9 @@ ul.task-list li input[type="checkbox"] {
   <ul>
   <li><a href="#parental-care-behavior" id="toc-parental-care-behavior" class="nav-link active" data-scroll-target="#parental-care-behavior">Parental care behavior</a></li>
   <li><a href="#nestling-development" id="toc-nestling-development" class="nav-link" data-scroll-target="#nestling-development">Nestling development</a></li>
+  <li><a href="#chick-fledge-events" id="toc-chick-fledge-events" class="nav-link" data-scroll-target="#chick-fledge-events">Chick fledge events</a></li>
+  <li><a href="#home-range-size" id="toc-home-range-size" class="nav-link" data-scroll-target="#home-range-size">Home range size</a></li>
+  <li><a href="#crown-feather-reflectance" id="toc-crown-feather-reflectance" class="nav-link" data-scroll-target="#crown-feather-reflectance">Crown feather reflectance</a></li>
   </ul>
 </nav>
     </div>
@@ -181,7 +184,7 @@ ul.task-list li input[type="checkbox"] {
 <p>I studied parental care behavior, home range size, and feather reflectance of Red-headed Woodpeckers (<i>Melanerpes erythrocephalus</i>) as part of my Master’s work with the <a href="https://rampages.us/bullucklab/">Bulluck Avian Ecology Lab</a>.</p>
 <section id="parental-care-behavior" class="level2">
 <h2 class="anchored" data-anchor-id="parental-care-behavior">Parental care behavior</h2>
-<p>What do Red-headed Woodpecker moms and dads have in common? Withput plumage or significant size differences, they look virtually idential. And they’re both great parents! Below is a summary of my research using a series of infographics. To learn more, check out my <a href="https://journal.afonet.org/vol93/iss2/art3/JFO-2022-89.pdf">parental care publication</a>.</p>
+<p>What do Red-headed Woodpecker moms and dads have in common? Withput plumage or significant size differences, they look virtually identical. And they’re both great parents! Below is a summary of my research using a series of infographics. To learn more, check out my <a href="https://journal.afonet.org/vol93/iss2/art3/JFO-2022-89.pdf">parental care publication</a> or the <a href="https://github.com/lawalter/rhwo-parental-care">parental care data repository</a>.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="images/rhwo_parental_care.png" class="img-fluid figure-img" alt="Red-headed Woodpecker parental care results summary. Ninety-nine percent of all woodpecker species are sexually dimorphic; less than one percent are truly monomorphic. Red-headed and Lewis's Woodpeckers are the only monomorphic woodpeckers. Since males and females are hard to tell apart in monomorphic species, parental care behaviors are often under-studied. We used DNA to sex color-banded Red-headed Woodpeckers and video-recorded their parental care. Males did nearly all of the nest cleaning. Provisioning, also known as feeding chicks, was equal. Incubation and diurnal brooding was done by females more."></p>
@@ -206,6 +209,18 @@ ul.task-list li input[type="checkbox"] {
 <p><img src="images/nestling_development.png" class="img-fluid figure-img" alt="Red-headed Woodpeckers hatch asynchronously. Pinfeathers emerge at day 7 and eyes open on day 11."></p>
 </figure>
 </div>
+</section>
+<section id="chick-fledge-events" class="level2">
+<h2 class="anchored" data-anchor-id="chick-fledge-events">Chick fledge events</h2>
+<p>Red-headed Woodpecker parents work tirelessly for the day their chicks leave the nest. In all of the hours recording videos at active nest cavities we managed to capture footage of a chick fledging on two occasions. Though not of cinematic quality, this footage captures a life history event that was not previously documented. Both fledging videos are archived at the Macaulay Library (<a href="https://macaulaylibrary.org/asset/488612">ML488612</a>, <a href="https://macaulaylibrary.org/asset/488613">ML488613</a>).</p>
+</section>
+<section id="home-range-size" class="level2">
+<h2 class="anchored" data-anchor-id="home-range-size">Home range size</h2>
+<p>This work is yet to be published but is well documented in my <a href="https://scholarscompass.vcu.edu/etd/6000/">Master’s thesis</a>. We estimated home range sizes of 25 breeding adult Red-headed Woodpeckers using PinPoint GPS tags and 95% kernel density estimates. Based on this preliminary analysis, we determined Red-headed Woodpecker males have larger home ranges than females, though this difference is not significant.</p>
+</section>
+<section id="crown-feather-reflectance" class="level2">
+<h2 class="anchored" data-anchor-id="crown-feather-reflectance">Crown feather reflectance</h2>
+<p>We collected crown feathers from 68 banded Red-headed Woodpeckers. From the feather samples, we measured carotenoid content and overall brightness. These data are still being analyzed; we plan to assess whether individual parental care effort is related to feather ornamentation, and/or if males and females can be distinguished using feather reflectance.</p>
 
 
 </section>
@@ -342,6 +357,20 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       });
     }
   }
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+      var filterRegex = new RegExp(/https:\/\/lawalter\.github\.io/);
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href);
+    }
+    // Inspect non-navigation links and adorn them if external
+    var links = window.document.querySelectorAll('a:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+          // target, if specified
+          link.setAttribute("target", "_blank");
+      }
+    }
 });
 </script>
 </div> <!-- /content -->
