@@ -16,7 +16,7 @@ navbar: true
 # Abby Walter
 [{{< fa brands github text="GitHub" >}}](http://github.com/lawalter) [{{< fa brands mastodon text="Mastodon" >}}](https://fosstodon.org/@abby) [{{< fa brands twitter text="Twitter" >}}](http://twitter.com/lawaltr) [<i class="bi bi-binoculars-fill"></i>](https://ebird.org/profile/MjgzMDYw/US) [{{< ai orcid text="Orcid" >}}](https://orcid.org/0000-0003-4017-5596) [<i class="bi bi-envelope-fill"></i>](mailto:lawalter@vcu.edu)
 
-Howdy, my name is Abby! I'm a Wildlife Biologist and Data Analyst located near Washington, DC. I work for the US Fish and Wildlife Service to process and manage migratory bird data with R and Python.
+Hey, my name is Abby! I'm a Wildlife Biologist located near Washington, DC.
 
 :::
 
