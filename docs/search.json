@@ -4,14 +4,14 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "Born and raised in Delaware, I attended the University of Delaware to study Wildlife Conservation and Ecology in my hometown of Newark. During and after earning my undergraduate degree, I took seasonal field jobs from Rhode Island to Florida to work with species such as Wood Thrush, Piping Plovers, Red-cockaded Woodpeckers, white-footed deer mice, and frosted flatwoods salamanders. I eventually settled in Virginia to join the Bulluck Avian Ecology Lab at Virginia Commonwealth University, where I studied Red-headed Woodpecker sex-specific parental care behavior and home range size for my Master’s research. I later honed my data wrangling techniques at the Smithsonian Migratory Bird Center and realized managing wildlife data was the career for me.\nI am a certified Associate Wildlife Biologist and enjoy birding in my free time."
+    "text": "I am a certified Associate Wildlife Biologist with a B.Sc. from the University of Delaware and M.Sc. from the Bulluck Avian Ecology Lab at Virginia Commonwealth University. Most of my background is in wildlife biology, but I also like coding and programming. I learned how to wrangle data at the Smithsonian Migratory Bird Center and now work managing data full-time with the U.S. Fish and Wildlife Service Migratory Bird Program. In my free time, I enjoy camping, traveling, and birding with my wife and dog."
   },
   {
     "objectID": "coding.html",
     "href": "coding.html",
     "title": "Code Projects",
     "section": "",
-    "text": "When I can find the time, I like to tinker! Below are some past and current personal projects mostly done in R or R Shiny. I am currently honing my Python skills and also trying to learn Julia.\nTo see the R packages I created and maintain in an official capacity, check out the USFWS GitHub."
+    "text": "Below are some past and current personal projects mostly done in R or R Shiny. I am currently learning Python and hope to learn Julia next. Click the Github icon inside each box to view the project repository.\nTo see the R packages I created and maintain in an official capacity, check out the USFWS GitHub."
   },
   {
     "objectID": "coding.html#apps",
@@ -81,7 +81,7 @@
     "href": "index.html",
     "title": "Abby Walter",
     "section": "",
-    "text": "Abby Walter\n     \nHowdy, my name is Abby! I’m a Wildlife Biologist and Data Analyst located near Washington, DC. I work for the US Fish and Wildlife Service to process and manage migratory bird data with R and Python."
+    "text": "Abby Walter\n     \nHey, my name is Abby! I’m a Wildlife Biologist located near Washington, DC."
   },
   {
     "objectID": "publications.html",
@@ -102,7 +102,7 @@
     "href": "research.html#parental-care-behavior",
     "title": "Red-headed Woodpecker Research",
     "section": "Parental care behavior",
-    "text": "Parental care behavior\nWhat do Red-headed Woodpecker moms and dads have in common? Withput plumage or significant size differences, they look virtually identical. And they’re both great parents! Below is a summary of my research using a series of infographics. To learn more, check out my parental care publication or the parental care data repository."
+    "text": "Parental care behavior\nWhat do Red-headed Woodpecker moms and dads have in common? Withput plumage or significant size differences, they look virtually identical. And they’re both great parents! Below is a summary of my research using a series of infographics. To learn more, check out my parental care publication or data repository."
   },
   {
     "objectID": "research.html#nestling-development",

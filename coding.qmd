@@ -3,9 +3,9 @@ title: "Code Projects"
 page-layout: full
 ---
 
-When I can find the time, I like to tinker! Below are some past and current personal projects mostly done in R or R Shiny. I am currently honing my Python skills and also trying to learn Julia. 
+Below are some past and current personal projects mostly done in R or R Shiny. I am currently learning Python and hope to learn Julia next. Click the Github icon inside each box to view the project repository.
 
-To see the R packages I created and maintain in an official capacity, check out the [USFWS GitHub](https://github.com/USFWS).
+To see the R packages I created and maintain in an official capacity, check out the [USFWS GitHub](https://github.com/search?q=org%3AUSFWS+migbird&type=repositories).
 
 ## Apps
 

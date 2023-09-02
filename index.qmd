@@ -7,7 +7,7 @@ navbar: true
 
 ::: {.g-col-12 .g-col-md-6}
 
-![](images/abbywalter.png){fig-alt="Photo of Abby on top of Mount Washington." fig-align="center" width=80%}
+![](images/abby_walter.png){fig-alt="Photo of Abby" fig-align="center" width=80%}
 
 :::
 

@@ -3,7 +3,6 @@ title: "About"
 page-layout: full
 ---
 
-Born and raised in Delaware, I attended the University of Delaware to study Wildlife Conservation and Ecology in my hometown of Newark. During and after earning my undergraduate degree, I took seasonal field jobs from Rhode Island to Florida to work with species such as Wood Thrush, Piping Plovers, Red-cockaded Woodpeckers, white-footed deer mice, and frosted flatwoods salamanders. I eventually settled in Virginia to join the [Bulluck Avian Ecology Lab](https://rampages.us/bullucklab/) at Virginia Commonwealth University, where I studied Red-headed Woodpecker sex-specific parental care behavior and home range size for my Master's research. I later honed my data wrangling techniques at the Smithsonian Migratory Bird Center and realized managing wildlife data was the career for me.
+I am a certified [Associate Wildlife Biologist](https://wildlife.org/learn/professional-development-certification/certification-programs/) with a B.Sc. from the University of Delaware and M.Sc. from the [Bulluck Avian Ecology Lab](https://rampages.us/bullucklab/) at Virginia Commonwealth University. Most of my background is in wildlife biology, but I also like coding and programming. I learned how to wrangle data at the Smithsonian Migratory Bird Center and now work managing data full-time with the U.S. Fish and Wildlife Service Migratory Bird Program. In my free time, I enjoy camping, traveling, and birding with my wife and dog.
 
-I am a certified [Associate Wildlife Biologist](https://wildlife.org/learn/professional-development-certification/certification-programs/) and enjoy birding in my free time.
-
+![](images/dog.png){fig-alt="A photo of Abby's dog" fig-align="center" width=60%}

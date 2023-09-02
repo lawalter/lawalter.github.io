@@ -7,13 +7,12 @@ project:
 
 website:
   title: "Abby Walter"
-  description: "Wildlife Biologist and Data Analyst"
+  description: "Wildlife Biologist"
   favicon: images/favicon.ico
   site-url: "https://lawalter.github.io"
   repo-url: "https://github.com/lawalter/lawalter.github.io"
   search: false
   navbar:
-    logo: images/abbywalter.png
     title: Abby Walter
     left:
       - about.qmd
@@ -34,7 +33,7 @@ website:
       - text: "{{< ai orcid >}}"
         href: https://orcid.org/0000-0003-4017-5596
       - icon: envelope-fill
-        href: mailto:lawalter@vcu.edu   
+        href: mailto:lawalter@duck.com  
     search: false   
   page-footer: 
     center: Abby Walter's personal website. Made with [Quarto](https://quarto.org/).<br>[Repository](https://github.com/lawalter/lawalter.github.io). [Disclaimer](https://github.com/lawalter/lawalter.github.io/blob/master/DISCLAIMER.md). [License](https://github.com/lawalter/lawalter.github.io/blob/master/LICENSE).
