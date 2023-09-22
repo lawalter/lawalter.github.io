@@ -55,15 +55,14 @@ ul.task-list li input[type="checkbox"] {
 }</script>
 
 
-<link rel="stylesheet" href="css/styles.css">
 <meta property="og:title" content="Abby Walter - Code Projects">
-<meta property="og:description" content="Below are some past and current personal projects mostly done in R or R Shiny. I am currently learning Python and hope to learn Julia next.">
+<meta property="og:description" content="Below are some projects that are hosted on my GitHub. These featured repositories showcase my past and present use of different programming languages and frameworks.">
 <meta property="og:image" content="https://lawalter.github.io/images\abby_walter.png">
 <meta property="og:site-name" content="Abby Walter">
 <meta property="og:image:height" content="2208">
 <meta property="og:image:width" content="2208">
 <meta name="twitter:title" content="Abby Walter - Code Projects">
-<meta name="twitter:description" content="Below are some past and current personal projects mostly done in R or R Shiny. I am currently learning Python and hope to learn Julia next.">
+<meta name="twitter:description" content="Below are some projects that are hosted on my GitHub. These featured repositories showcase my past and present use of different programming languages and frameworks.">
 <meta name="twitter:image" content="https://lawalter.github.io/images\abby_walter.png">
 <meta name="twitter:creator" content="@lawaltr">
 <meta name="twitter:image-height" content="2208">
@@ -153,6 +152,7 @@ ul.task-list li input[type="checkbox"] {
    
   <ul>
   <li><a href="#apps" id="toc-apps" class="nav-link active" data-scroll-target="#apps">Apps</a></li>
+  <li><a href="#data-analysis" id="toc-data-analysis" class="nav-link" data-scroll-target="#data-analysis">Data analysis</a></li>
   <li><a href="#miscellaneous" id="toc-miscellaneous" class="nav-link" data-scroll-target="#miscellaneous">Miscellaneous</a></li>
   </ul>
 </nav>
@@ -177,8 +177,8 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
-<p>Below are some past and current personal projects mostly done in R or R Shiny. I am currently learning Python and hope to learn Julia next. Click the Github icon inside each box to view the project repository.</p>
-<p>To see the R packages I created and maintain in an official capacity, check out the <a href="https://github.com/search?q=org%3AUSFWS+migbird&amp;type=repositories">USFWS GitHub</a>.</p>
+<p>Below are some projects that are hosted on <a href="https://github.com/lawalter">my GitHub</a>. These featured repositories showcase my past and present use of different programming languages and frameworks. I regularly work in R and I have experience with R Shiny, R Markdown, Quarto, and creating R packages. Moving forward, I am excited to pick up Julia and try out the Genie framework.</p>
+<p>The GitHub icon <i class="fa-brands fa-github" aria-label="github"></i> in each card links to the project repository.</p>
 <section id="apps" class="level2">
 <h2 class="anchored" data-anchor-id="apps">Apps</h2>
 <div class="grid">
@@ -193,9 +193,12 @@ gardenhelpr
 <p><img src="images/gh_app.png" class="img-fluid figure-img" alt="Screenshot of Garden Helper application"></p>
 </figure>
 </div>
-<p><span class="badge rounded-pill bg-warning">In development</span> <span class="badge rounded-pill bg-secondary">2022-present</span> <a href="https://github.com/lawalter/gardenhelpr"><i class="fa-brands fa-github" aria-label="github"></i></a></p>
+<p><span class="badge rounded-pill bg-warning">In development</span> <span class="badge rounded-pill bg-secondary">2022</span> <a href="https://github.com/lawalter/gardenhelpr"><i class="fa-brands fa-github" aria-label="github"></i></a></p>
 <p class="card-text">
-I started this R Shiny app to assist in backyard garden planning. Initially, I had an idea to calculate the mean pH requirements of all of the plants I was hoping to grow in my yard. As I did more research, I learned about the benefits of companion planting (and drawbacks to planting “enemies” together)! When completed, the gardenhelpr app will be able to take a list of plants a user is planning to grow and output both (1) ideal growing conditions (pH, soil, light, etc) as well as (2) any plant relationships and subsequent spacing recommendations.
+I started the <a href="https://github.com/lawalter/gardenhelpr">gardenhelpr</a> R Shiny app to assist in backyard garden planning. When completed, it will take a list of plants the user is planning to grow and output ideal growing conditions (pH, soil, light, etc) as well as companion and antagonist relationship recommendations.
+</p>
+<p class="card-text">
+<code>#R</code> <code>#RShiny</code> <code>#ggplot2</code>
 </p>
 </div>
 </div>
@@ -213,7 +216,36 @@ Colorband Combination Generator
 </div>
 <p><span class="badge rounded-pill bg-success">Complete</span> <span class="badge rounded-pill bg-secondary">2020</span> <a href="https://github.com/lawalter/colorband-app"><i class="fa-brands fa-github" aria-label="github"></i></a></p>
 <p class="card-text">
-Created as a test case for my <a href="https://github.com/lawalter/r-shiny-electron-app">r-shiny-electron-app</a> repository, this is a simple R Shiny app packaged with Electron that creates random color combinations for bird banding. Colors can be selected based on what’s available in a banding kit, and selections are saved for future use via <a href="https://github.com/trestletech/shinyStore">shinyStore</a>.
+The <a href="https://github.com/lawalter/colorband-app">Colorband Combination Generator</a> app was created with R Shiny and packaged with Electron. It creates random color combinations for bird banding. Colors can be selected based on what’s available in a banding kit, and selections are saved for future use via <a href="https://github.com/trestletech/shinyStore">shinyStore</a>.
+</p>
+<p class="card-text">
+<code>#R</code> <code>#RShiny</code>
+</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section id="data-analysis" class="level2">
+<h2 class="anchored" data-anchor-id="data-analysis">Data analysis</h2>
+<div class="grid">
+<div class="g-col-12 g-col-md-6">
+<div class="card bg-light mb-3">
+<div class="card-header">
+RHWO Parental Care
+</div>
+<div class="card-body">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/rhwo.jpg" class="img-fluid figure-img" alt="Photo of Red-headed Woodpecker"></p>
+</figure>
+</div>
+<p><span class="badge rounded-pill bg-success">Complete</span> <span class="badge rounded-pill bg-secondary">2017-2023</span> <a href="https://github.com/lawalter/rhwo-parental-care"><i class="fa-brands fa-github" aria-label="github"></i></a></p>
+<p class="card-text">
+The <a href="https://github.com/lawalter/rhwo-parental-care">RHWO Parental Care</a> repository contains data, metadata, code, and figures pertaining to my Master’s research data analyses.
+</p>
+<p class="card-text">
+<code>#R</code> <code>#tidyverse</code> <code>#ggplot2</code>
 </p>
 </div>
 </div>

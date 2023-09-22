@@ -4,21 +4,28 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "I am a certified Associate Wildlife Biologist with a B.Sc. from the University of Delaware and M.Sc. from the Bulluck Avian Ecology Lab at Virginia Commonwealth University. Most of my background is in wildlife biology, but I also like coding and programming. I learned how to wrangle data at the Smithsonian Migratory Bird Center and now work managing data full-time with the U.S. Fish and Wildlife Service Migratory Bird Program. In my free time, I enjoy camping, traveling, and birding with my wife and dog."
+    "text": "I am a certified Associate Wildlife Biologist with a B.Sc. from the University of Delaware and M.Sc. from the Bulluck Avian Ecology Lab at Virginia Commonwealth University. Most of my background is in wildlife biology, but I also like coding and programming. I learned how to wrangle data at the Smithsonian Migratory Bird Center and now work analyzing data for the U.S. Fish & Wildlife Service Migratory Bird Program. In my free time, I enjoy camping, traveling, and birding with my wife and dog."
   },
   {
     "objectID": "coding.html",
     "href": "coding.html",
     "title": "Code Projects",
     "section": "",
-    "text": "Below are some past and current personal projects mostly done in R or R Shiny. I am currently learning Python and hope to learn Julia next. Click the Github icon inside each box to view the project repository.\nTo see the R packages I created and maintain in an official capacity, check out the USFWS GitHub."
+    "text": "Below are some projects that are hosted on my GitHub. These featured repositories showcase my past and present use of different programming languages and frameworks. I regularly work in R and I have experience with R Shiny, R Markdown, Quarto, and creating R packages. Moving forward, I am excited to pick up Julia and try out the Genie framework.\nThe GitHub icon  in each card links to the project repository."
   },
   {
     "objectID": "coding.html#apps",
     "href": "coding.html#apps",
     "title": "Code Projects",
     "section": "Apps",
-    "text": "Apps\n\n\n\n\ngardenhelpr\n\n\n\n\n\n\n\nIn development 2022-present \n\nI started this R Shiny app to assist in backyard garden planning. Initially, I had an idea to calculate the mean pH requirements of all of the plants I was hoping to grow in my yard. As I did more research, I learned about the benefits of companion planting (and drawbacks to planting “enemies” together)! When completed, the gardenhelpr app will be able to take a list of plants a user is planning to grow and output both (1) ideal growing conditions (pH, soil, light, etc) as well as (2) any plant relationships and subsequent spacing recommendations.\n\n\n\n\n\n\n\nColorband Combination Generator\n\n\n\n\n\n\n\nComplete 2020 \n\nCreated as a test case for my r-shiny-electron-app repository, this is a simple R Shiny app packaged with Electron that creates random color combinations for bird banding. Colors can be selected based on what’s available in a banding kit, and selections are saved for future use via shinyStore."
+    "text": "Apps\n\n\n\n\ngardenhelpr\n\n\n\n\n\n\n\nIn development 2022 \n\nI started the gardenhelpr R Shiny app to assist in backyard garden planning. When completed, it will take a list of plants the user is planning to grow and output ideal growing conditions (pH, soil, light, etc) as well as companion and antagonist relationship recommendations.\n\n\n#R #RShiny #ggplot2\n\n\n\n\n\n\n\nColorband Combination Generator\n\n\n\n\n\n\n\nComplete 2020 \n\nThe Colorband Combination Generator app was created with R Shiny and packaged with Electron. It creates random color combinations for bird banding. Colors can be selected based on what’s available in a banding kit, and selections are saved for future use via shinyStore.\n\n\n#R #RShiny"
+  },
+  {
+    "objectID": "coding.html#data-analysis",
+    "href": "coding.html#data-analysis",
+    "title": "Code Projects",
+    "section": "Data analysis",
+    "text": "Data analysis\n\n\n\n\nRHWO Parental Care\n\n\n\n\n\n\n\nComplete 2017-2023 \n\nThe RHWO Parental Care repository contains data, metadata, code, and figures pertaining to my Master’s research data analyses.\n\n\n#R #tidyverse #ggplot2"
   },
   {
     "objectID": "coding.html#miscellaneous",

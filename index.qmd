@@ -14,7 +14,7 @@ navbar: true
 ::: {.g-col-12 .g-col-md-6}
 
 # Abby Walter
-[{{< fa brands github text="GitHub" >}}](http://github.com/lawalter) [{{< fa brands mastodon text="Mastodon" >}}](https://fosstodon.org/@abby) [{{< fa brands twitter text="Twitter" >}}](http://twitter.com/lawaltr) [<i class="bi bi-binoculars-fill"></i>](https://ebird.org/profile/MjgzMDYw/US) [{{< ai orcid text="Orcid" >}}](https://orcid.org/0000-0003-4017-5596) [<i class="bi bi-envelope-fill"></i>](mailto:lawalter@vcu.edu)
+[{{< fa brands github text="GitHub" >}}](http://github.com/lawalter) [{{< fa brands mastodon text="Mastodon" >}}](https://fosstodon.org/@abby) [{{< fa brands twitter text="Twitter" >}}](http://twitter.com/lawaltr) [<i class="bi bi-binoculars-fill"></i>](https://ebird.org/profile/MjgzMDYw/US) [{{< ai orcid text="Orcid" >}}](https://orcid.org/0000-0003-4017-5596) [<i class="bi bi-envelope-fill"></i>](mailto:lawalter@duck.com)
 
 Hey, my name is Abby! I'm a Wildlife Biologist located near Washington, DC.
 
