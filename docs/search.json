@@ -18,7 +18,7 @@
     "href": "coding.html#apps",
     "title": "Code Projects",
     "section": "Apps",
-    "text": "Apps\n\n\n\n\ngardenhelpr\n\n\n\n\n\n\n\nIn development 2022 \n\nI started the gardenhelpr R Shiny app to assist in backyard garden planning. When completed, it will take a list of plants the user is planning to grow and output ideal growing conditions (pH, soil, light, etc) as well as companion and antagonist relationship recommendations.\n\n\n#R #RShiny #ggplot2\n\n\n\n\n\n\n\nColorband Combination Generator\n\n\n\n\n\n\n\nComplete 2020 \n\nThe Colorband Combination Generator app was created with R Shiny and packaged with Electron. It creates random color combinations for bird banding. Colors can be selected based on what’s available in a banding kit, and selections are saved for future use via shinyStore.\n\n\n#R #RShiny"
+    "text": "Apps\n\n\n\n\ngardenhelpr\n\n\n\n\n\n\n\nComplete 2022-2023 \n\nI created the gardenhelpr R Shiny app to assist in backyard garden planning. The app generates an interactive visualization of companion and antagonist plants from the user’s input. A full list of friends and foes can be downloaded as a csv.\n\n\n#R #RShiny #ggplot2\n\n\n\n\n\n\n\nColorband Combination Generator\n\n\n\n\n\n\n\nComplete 2020 \n\nThe Colorband Combination Generator app was created with R Shiny and packaged with Electron. It creates random color combinations for bird banding. Colors can be selected based on what’s available in a banding kit, and selections are saved for future use via shinyStore.\n\n\n#R #RShiny"
   },
   {
     "objectID": "coding.html#data-analysis",

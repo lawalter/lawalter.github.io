@@ -18,9 +18,9 @@ The GitHub icon {{< fa brands github title = "Example GitHub icon" >}} in each c
   <div class="card-body">
   ![](images/gh_app.png){fig-alt="Screenshot of Garden Helper application" fig-align="center"}
 
-<span class="badge rounded-pill bg-warning">In development</span> <span class="badge rounded-pill bg-secondary">2022</span> [{{< fa brands github title = "GitHub link to Garden Helper repository" >}}](https://github.com/lawalter/gardenhelpr)
+<span class="badge rounded-pill bg-success">Complete</span> <span class="badge rounded-pill bg-secondary">2022-2023</span> [{{< fa brands github title = "GitHub link to Garden Helper repository" >}}](https://github.com/lawalter/gardenhelpr)
 
-<p class="card-text">I started the [gardenhelpr](https://github.com/lawalter/gardenhelpr) R Shiny app to assist in backyard garden planning. When completed, it will take a list of plants the user is planning to grow and output ideal growing conditions (pH, soil, light, etc) as well as companion and antagonist relationship recommendations.</p>
+<p class="card-text">I created the [gardenhelpr](https://github.com/lawalter/gardenhelpr) R Shiny app to assist in backyard garden planning. The app generates an interactive visualization of companion and antagonist plants from the user's input. A full list of friends and foes can be downloaded as a csv.</p>
 
 <p class="card-text">`#R` `#RShiny` `#ggplot2`</p>
   </div>
@@ -58,7 +58,7 @@ The GitHub icon {{< fa brands github title = "Example GitHub icon" >}} in each c
   <div class="card-body">
   ![](images/rhwo.jpg){fig-alt="Photo of Red-headed Woodpecker" fig-align="center"}
 
-<span class="badge rounded-pill bg-success">Complete</span> <span class="badge rounded-pill bg-secondary">2017-2023</span> [{{< fa brands github title = "GitHub link to Red-headed Woodpecker parental care repository" >}}](https://github.com/lawalter/rhwo-parental-care)
+<span class="badge rounded-pill bg-success">Complete</span> <span class="badge rounded-pill bg-secondary">2017-2022</span> [{{< fa brands github title = "GitHub link to Red-headed Woodpecker parental care repository" >}}](https://github.com/lawalter/rhwo-parental-care)
 
 <p class="card-text">The [RHWO Parental Care](https://github.com/lawalter/rhwo-parental-care) repository contains data, metadata, code, and figures pertaining to my Master's research data analyses.</p>
 
