@@ -11,28 +11,28 @@
     "href": "coding.html",
     "title": "Code Projects",
     "section": "",
-    "text": "Below are some projects that are hosted on my GitHub. These featured repositories showcase my past and present use of different programming languages and frameworks. I regularly work in R and I have experience with R Shiny, R Markdown, Quarto, and creating R packages. Moving forward, I am excited to pick up Julia and try out the Genie framework.\nThe GitHub icon  in each card links to the project repository."
+    "text": "Below are some projects that are hosted on my GitHub. These featured repositories showcase my past and present use of different programming languages and frameworks. I regularly work in R and I have experience with R Shiny, R Markdown, Quarto, and creating R packages. Moving forward, I am excited to pick up Julia and try out the Genie framework."
   },
   {
     "objectID": "coding.html#apps",
     "href": "coding.html#apps",
     "title": "Code Projects",
     "section": "Apps",
-    "text": "Apps\n\n\n\n\ngardenhelpr\n\n\n\n\n\n\n\nComplete 2022-2023 \n\nI created the gardenhelpr R Shiny app to assist in backyard garden planning. The app generates an interactive visualization of companion and antagonist plants from the user’s input. A full list of friends and foes can be downloaded as a csv.\n\n\n#R #RShiny #ggplot2\n\n\n\n\n\n\n\nColorband Combination Generator\n\n\n\n\n\n\n\nComplete 2020 \n\nThe Colorband Combination Generator app was created with R Shiny and packaged with Electron. It creates random color combinations for bird banding. Colors can be selected based on what’s available in a banding kit, and selections are saved for future use via shinyStore.\n\n\n#R #RShiny"
+    "text": "Apps\n\n\n\n\ngardenhelpr\n\n\n\n\n\n\n\nComplete 2022-2023\n\nI created the gardenhelpr R Shiny app to assist in backyard garden planning. The app generates an interactive visualization of companion and antagonist plants from the user’s input. A full list of friends and foes can be downloaded as a csv.\n\n\n#R #RShiny #ggplot2\n\n\n\n\n\n\n\nColorband Combination Generator\n\n\n\n\n\n\n\nComplete 2020\n\nThe Colorband Combination Generator app was created with R Shiny and packaged with Electron. It creates random color combinations for bird banding. Colors can be selected based on what’s available in a banding kit, and selections are saved for future use via shinyStore.\n\n\n#R #RShiny"
   },
   {
     "objectID": "coding.html#data-analysis",
     "href": "coding.html#data-analysis",
     "title": "Code Projects",
     "section": "Data analysis",
-    "text": "Data analysis\n\n\n\n\nRHWO Parental Care\n\n\n\n\n\n\n\nComplete 2017-2023 \n\nThe RHWO Parental Care repository contains data, metadata, code, and figures pertaining to my Master’s research data analyses.\n\n\n#R #tidyverse #ggplot2"
+    "text": "Data analysis\n\n\n\n\nRHWO Parental Care\n\n\n\n\n\n\n\nComplete 2017-2022\n\nThe RHWO Parental Care repository contains data, metadata, code, and figures pertaining to my Master’s research data analyses.\n\n\n#R #tidyverse #ggplot2"
   },
   {
     "objectID": "coding.html#miscellaneous",
     "href": "coding.html#miscellaneous",
     "title": "Code Projects",
     "section": "Miscellaneous",
-    "text": "Miscellaneous\n\n\n\n\nShiny Electron App Creation Guide\n\n\nComplete 2020 \n\nI wrote a step-by-step guide to creating a desktop application with R Shiny on both macOS and Windows using Electron."
+    "text": "Miscellaneous\n\n\n\n\nShiny Electron App Creation Guide\n\n\nComplete 2020\n\nI wrote a step-by-step guide to creating a desktop application with R Shiny using Electron on both macOS and Windows."
   },
   {
     "objectID": "gifs.html",
